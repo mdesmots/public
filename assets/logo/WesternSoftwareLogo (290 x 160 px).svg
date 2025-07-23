@@ -20,8 +20,7 @@
         fill: none;
         }
     </style>
-    <rect x=" 0" y=" 0
-    " width=" 100%" height=" 100%" rx=" 50" fill=" #FFB900" />
+    <rect x="0" y="0" width="100%" height="100%" rx="50" fill="#FFB900" />
     <g transform="translate(41.25, 90)">
         <path
             transform="matrix(0.669295, 0.334614, -0.334614, 0.669295, 0.333239, 62.370094)"
@@ -29,7 +28,7 @@
         <path
             transform="matrix(-0.669295, 0.334614, -0.334614, -0.669295, 216.999399, 63.039396)"
             d="M -0.00089747 0.501977 L 161.865712 0.500197 " />
-        <g transform="translate(0, -6">
+        <g transform="translate(0, -6)">
             <path
                 transform="matrix(0.672596, 0.327928, -0.327928, 0.672596, 77.711748, 69.77629)"
                 d="M -0.0006859 0.501365 L 46.175214 0.498747 " />

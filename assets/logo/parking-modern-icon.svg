@@ -1,0 +1,13 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="48" height="48" rx="8" fill="#FFB900"/>
+  
+  <!-- Parking symbol -->
+  <rect x="8" y="8" width="32" height="32" rx="4" fill="#2F4F4F"/>
+  
+  <!-- Letter P -->
+  <path d="M12 12h12c2.2 0 4 1.8 4 4s-1.8 4-4 4h-8v8h-4V12z" fill="#FFB900"/>
+  
+  <!-- Modern accent -->
+  <circle cx="36" cy="12" r="3" fill="#FFB900"/>
+</svg> 

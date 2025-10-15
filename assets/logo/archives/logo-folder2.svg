@@ -1,0 +1,101 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	width="100%" viewBox="0 0 500 500" enable-background="new 0 0 500 500" xml:space="preserve">
+	<rect x="0" y="0" width="100%" height="100%" rx="100" fill="#FFB900"/>
+
+<!-- Folder opened (side perspective) -->
+<g fill="#2F4F4F">
+<!-- Back wall of folder -->
+<rect x="100" y="260" width="350" height="180" rx="10" fill="#2F4F4F" opacity="0.7"/>
+
+<!-- Left side of folder -->
+<path opacity="0.85" stroke="none"
+	d="
+M100,260
+	L60,290
+	L60,470
+	L100,440
+z"/>
+
+<!-- Bottom of folder -->
+<path opacity="0.9" stroke="none"
+	d="
+M100,440
+	L60,470
+	L400,470
+	L450,440
+z"/>
+
+<!-- Right side of folder -->
+<path opacity="0.85" stroke="none"
+	d="
+M450,260
+	L490,290
+	L490,470
+	L450,440
+z"/>
+
+<!-- Front top edge -->
+<rect x="60" y="280" width="430" height="15" rx="5" fill="#2F4F4F"/>
+
+<!-- Folder tab on front -->
+<path opacity="1.000000" stroke="none"
+	d="
+M150,240
+	L170,220
+	L270,220
+	L290,240
+	L290,280
+	L150,280
+z"/>
+</g>
+
+<!-- Opening highlight -->
+<ellipse cx="275" cy="287" rx="200" ry="12" fill="#000000" opacity="0.15"/>
+
+<!-- Envelopes going into folder -->
+<g>
+<!-- Envelope 1 (partially in folder) -->
+<g opacity="0.9">
+<rect x="220" y="250" width="120" height="80" rx="8" fill="#FEFEFF"/>
+<path d="M230 260 L280 295 L330 260" fill="none" stroke="#2F4F4F" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+
+<!-- Envelope 2 (entering folder) -->
+<g opacity="1.0">
+<rect x="110" y="80" width="110" height="75" rx="7" fill="#FEFEFF"/>
+<path d="M120 90 L165 120 L210 90" fill="none" stroke="#2F4F4F" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- Arrow on envelope -->
+<g fill="#FFB900">
+<path opacity="1.000000" stroke="none"
+	d="
+M165,110
+	L165,200
+	L148,200
+	L165,225
+	L182,200
+	L165,200
+z"/>
+</g>
+</g>
+
+<!-- Envelope 3 (above, waiting) -->
+<g opacity="1.0">
+<rect x="320" y="40" width="110" height="75" rx="7" fill="#FEFEFF"/>
+<path d="M330 50 L375 80 L420 50" fill="none" stroke="#2F4F4F" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- Arrow on envelope -->
+<g fill="#FFB900">
+<path opacity="1.000000" stroke="none"
+	d="
+M375,70
+	L375,170
+	L358,170
+	L375,195
+	L392,170
+	L375,170
+z"/>
+</g>
+</g>
+</g>
+
+</svg>

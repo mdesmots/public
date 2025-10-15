@@ -1,0 +1,107 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	width="100%" viewBox="0 0 500 500" enable-background="new 0 0 500 500" xml:space="preserve">
+	<rect x="0" y="0" width="100%" height="100%" rx="100" fill="#FFB900"/>
+
+<!-- Carton box (open) -->
+<g fill="#2F4F4F">
+<!-- Box body -->
+<path opacity="1.000000" stroke="none"
+	d="
+M100,240
+	L100,430
+	C100,445 110,455 125,455
+	L375,455
+	C390,455 400,445 400,430
+	L400,240
+z"/>
+
+<!-- Box flaps (left) -->
+<path opacity="1.000000" stroke="none"
+	d="
+M100,240
+	L60,200
+	L100,200
+z"/>
+
+<!-- Box flaps (right) -->
+<path opacity="1.000000" stroke="none"
+	d="
+M400,240
+	L440,200
+	L400,200
+z"/>
+
+<!-- Box flaps (back left) -->
+<path opacity="0.6" stroke="none"
+	d="
+M100,240
+	L130,180
+	L180,200
+z"/>
+
+<!-- Box flaps (back right) -->
+<path opacity="0.6" stroke="none"
+	d="
+M400,240
+	L370,180
+	L320,200
+z"/>
+</g>
+
+<!-- Box opening highlight -->
+<rect x="100" y="238" width="300" height="6" rx="2" fill="#FEFEFF" opacity="0.3"/>
+
+<!-- Envelopes going into box -->
+<g>
+<!-- Envelope 1 (partially in box) -->
+<g opacity="0.9">
+<rect x="180" y="200" width="140" height="90" rx="8" fill="#FEFEFF"/>
+<path d="M190 210 L250 255 L310 210" fill="none" stroke="#2F4F4F" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+
+<!-- Envelope 2 (entering box) -->
+<g opacity="1.0">
+<rect x="140" y="100" width="100" height="65" rx="6" fill="#FEFEFF"/>
+<path d="M148 108 L190 140 L232 108" fill="none" stroke="#2F4F4F" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- Arrow on envelope -->
+<g fill="#FFB900">
+<path opacity="1.000000" stroke="none"
+	d="
+M190,130
+	L190,175
+	L175,175
+	L190,195
+	L205,175
+	L190,175
+z"/>
+</g>
+</g>
+
+<!-- Envelope 3 (above, waiting) -->
+<g opacity="1.0">
+<rect x="280" y="60" width="100" height="65" rx="6" fill="#FEFEFF"/>
+<path d="M288 68 L330 100 L372 68" fill="none" stroke="#2F4F4F" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- Arrow on envelope -->
+<g fill="#FFB900">
+<path opacity="1.000000" stroke="none"
+	d="
+M330,90
+	L330,145
+	L315,145
+	L330,165
+	L345,145
+	L330,145
+z"/>
+</g>
+</g>
+</g>
+
+<!-- Envelopes already in box (visible at bottom) -->
+<g fill="#FEFEFF" opacity="0.5">
+<rect x="120" y="380" width="80" height="50" rx="5" fill="#FEFEFF"/>
+<rect x="220" y="390" width="70" height="45" rx="4" fill="#FEFEFF"/>
+<rect x="310" y="385" width="75" height="48" rx="5" fill="#FEFEFF"/>
+</g>
+
+</svg>

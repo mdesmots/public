@@ -1,0 +1,88 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	width="100%" viewBox="0 0 500 500" enable-background="new 0 0 500 500" xml:space="preserve">
+	<rect x="0" y="0" width="100%" height="100%" rx="100" fill="#FFB900"/>
+
+<!-- Folder -->
+<g fill="#2F4F4F">
+<!-- Folder tab -->
+<path opacity="1.000000" stroke="none"
+	d="
+M80,200
+	L80,220
+	L200,220
+	L220,200
+z"/>
+
+<!-- Folder body -->
+<path opacity="1.000000" stroke="none"
+	d="
+M80,220
+	L80,420
+	C80,435 90,445 105,445
+	L395,445
+	C410,445 420,435 420,420
+	L420,240
+	C420,225 410,215 395,215
+	L80,215
+z"/>
+
+<!-- Folder opening (lighter shade) -->
+<ellipse cx="250" cy="220" rx="170" ry="15" fill="#FEFEFF" opacity="0.2"/>
+</g>
+
+<!-- Envelopes going into folder -->
+<g>
+<!-- Envelope 1 (partially in folder) -->
+<g opacity="0.9">
+<rect x="180" y="180" width="140" height="90" rx="8" fill="#FEFEFF"/>
+<path d="M190 190 L250 235 L310 190" fill="none" stroke="#2F4F4F" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+
+<!-- Envelope 2 (entering folder) -->
+<g opacity="1.0">
+<rect x="140" y="80" width="100" height="65" rx="6" fill="#FEFEFF"/>
+<path d="M148 88 L190 120 L232 88" fill="none" stroke="#2F4F4F" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- Arrow on envelope -->
+<g fill="#FFB900">
+<path opacity="1.000000" stroke="none"
+	d="
+M190,110
+	L190,155
+	L175,155
+	L190,175
+	L205,155
+	L190,155
+z"/>
+</g>
+</g>
+
+<!-- Envelope 3 (above, waiting) -->
+<g opacity="1.0">
+<rect x="300" y="40" width="100" height="65" rx="6" fill="#FEFEFF"/>
+<path d="M308 48 L350 80 L392 48" fill="none" stroke="#2F4F4F" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- Arrow on envelope -->
+<g fill="#FFB900">
+<path opacity="1.000000" stroke="none"
+	d="
+M350,70
+	L350,125
+	L335,125
+	L350,145
+	L365,125
+	L350,125
+z"/>
+</g>
+</g>
+</g>
+
+<!-- Envelopes already in folder (visible at bottom) -->
+<g fill="#FEFEFF" opacity="0.5">
+<rect x="100" y="360" width="80" height="50" rx="5" fill="#FEFEFF"/>
+<rect x="200" y="370" width="70" height="45" rx="4" fill="#FEFEFF"/>
+<rect x="290" y="365" width="75" height="48" rx="5" fill="#FEFEFF"/>
+<rect x="120" y="300" width="65" height="42" rx="4" fill="#FEFEFF"/>
+<rect x="300" y="310" width="68" height="44" rx="4" fill="#FEFEFF"/>
+</g>
+
+</svg>

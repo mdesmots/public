@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="290"
+    zoomAndPan="magnify" viewBox="0 0 300 300" height="160"
+    preserveAspectRatio="xMidYMid meet" version="1.0">
+    <style>
+        :root {
+        --stroke-color: #000000;
+        }
+        path {
+        stroke: var(--stroke-color);
+        stroke-width: 10;
+        stroke-linejoin: round;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        fill: none;
+        stroke-opacity: 1;
+        }
+        .border {
+        stroke: var(--stroke-color);
+        stroke-width: 2;
+        fill: none;
+        }
+    </style>
+    <rect x=" 0" y=" 0
+    " width=" 100%" height=" 100%" rx=" 50" fill=" #FFB900" />
+    <g transform="translate(41.25, 90)">
+        <path
+            transform="matrix(0.669295, 0.334614, -0.334614, 0.669295, 0.333239, 62.370094)"
+            d="M -0.00320119 0.499185 L 161.863408 0.500965 " />
+        <path
+            transform="matrix(-0.669295, 0.334614, -0.334614, -0.669295, 216.999399, 63.039396)"
+            d="M -0.00089747 0.501977 L 161.865712 0.500197 " />
+        <g transform="translate(0, -6">
+            <path
+                transform="matrix(0.672596, 0.327928, -0.327928, 0.672596, 77.711748, 69.77629)"
+                d="M -0.0006859 0.501365 L 46.175214 0.498747 " />
+            <path
+                transform="matrix(-0.671726, 0.329707, -0.329707, -0.671726, 139.615958, 70.448609)"
+                d="M 0.00257768 0.500468 L 45.925252 0.501048 " />
+        </g>
+        <path
+            transform="matrix(0.666898, 0.339366, -0.339366, 0.666898, 62.817518, 0.137041)"
+            d="M -0.000337394 0.497562 L 69.387838 0.501745 " />
+        <path
+            transform="matrix(-0.669282, 0.334641, -0.334641, -0.669282, 155.08838, 1.137984)"
+            d="M -0.000171289 0.497905 L 69.372234 0.497905 " />
+        <path
+            transform="matrix(0.00451385, 0.748266, -0.748266, 0.00451385, 62.648747, 0.801297)"
+            d="M 0.00150566 0.501581 L 82.285471 0.502014 " />
+        <path
+            transform="matrix(-0.00451385, 0.748266, -0.748266, -0.00451385, 156.044382, 0.80357)"
+            d="M -0.000723717 0.497831 L 82.288493 0.502587 " />
+        <path
+            transform="matrix(-0.66196, 0.3489, -0.3489, -0.66196, 15.813181, 54.967787)"
+            d="M -0.00229371 0.498925 L 23.099079 0.501154 " />
+        <path
+            transform="matrix(0.66784, 0.337509, -0.337509, 0.66784, 201.527239, 54.302819)"
+            d="M 0.00105049 0.499439 L 22.89427 0.499273 " />
+    </g>
+</svg>

@@ -1,0 +1,40 @@
+{
+  "products": {
+    "gmailcleaner": {
+      "name": "GmailCleaner",
+      "shortDescription": "Automate your Gmail inbox management. Create custom rules to organize emails automatically, archive newsletters, and maintain a clean inbox with intelligent automation.",
+      "icon": "fas fa-envelope",
+      "category": "Email Management",
+      "pricing": {
+        "free": "€0/month",
+        "basic": "€0.99/month",
+        "standard": "€3.99/month",
+        "premium": "€7.99/month"
+      }
+    },
+    "invoicesense": {
+      "name": "InvoiceSense AI",
+      "shortDescription": "Easily manage your personal finances. Automatically scan receipts, track expenses, and organize your budget with our user-friendly AI solution.",
+      "icon": "fas fa-file-invoice",
+      "category": "Financial Management",
+      "pricing": {
+        "free": "€0/month",
+        "basic": "€4.99/month",
+        "standard": "€14.99/month",
+        "premium": "€29.99/month"
+      }
+    },
+    "mailsense": {
+      "name": "MailSense AI",
+      "shortDescription": "Communicate more effectively with AI-powered email suggestions, smart replies, and scheduling tools that save you time every day.",
+      "icon": "fas fa-robot",
+      "category": "AI Communication",
+      "pricing": {
+        "free": "€0/month",
+        "basic": "€2.99/month",
+        "standard": "€7.99/month",
+        "premium": "€14.99/month"
+      }
+    }
+  }
+}

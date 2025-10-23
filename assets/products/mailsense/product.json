@@ -1,0 +1,234 @@
+{
+  "name": "MailSense AI",
+  "tagline": "An AI-powered email assistant that helps you communicate more effectively with smart suggestions and automated responses.",
+  "description": "MailSense AI is an intelligent email assistant that uses advanced artificial intelligence to help you communicate more effectively. It provides smart email suggestions, automated responses, scheduling tools, and communication insights to save you time and improve your email productivity.",
+  "shortDescription": "Communicate more effectively with AI-powered email suggestions, smart replies, and scheduling tools that save you time every day.",
+  "features": {
+    "smartSuggestions": {
+      "title": "🧠 Smart Suggestions",
+      "items": [
+        "AI-powered email composition assistance",
+        "Context-aware reply suggestions",
+        "Tone and style recommendations",
+        "Grammar and clarity improvements"
+      ]
+    },
+    "automatedResponses": {
+      "title": "⚡ Automated Responses",
+      "items": [
+        "Smart auto-reply generation",
+        "Template-based responses",
+        "Scheduling and follow-up automation",
+        "Meeting request handling"
+      ]
+    },
+    "communicationInsights": {
+      "title": "📈 Communication Insights",
+      "items": [
+        "Email analytics and patterns",
+        "Response time optimization",
+        "Communication effectiveness metrics",
+        "Team collaboration insights"
+      ]
+    }
+  },
+  "pricing": {
+    "free": {
+      "name": "Free",
+      "price": "€0",
+      "period": "/month",
+      "features": [
+        "50 suggestions/month",
+        "Basic AI features",
+        "Simple templates",
+        "Manual scheduling"
+      ],
+      "buttonText": "Try for free"
+    },
+    "basic": {
+      "name": "Basic",
+      "price": "€2.99",
+      "period": "/month",
+      "featured": true,
+      "features": [
+        "200 suggestions/month",
+        "Advanced AI features",
+        "Custom templates",
+        "Auto-scheduling"
+      ],
+      "buttonText": "Get Started"
+    },
+    "standard": {
+      "name": "Standard",
+      "price": "€7.99",
+      "period": "/month",
+      "features": [
+        "500 suggestions/month",
+        "Team collaboration",
+        "Advanced analytics",
+        "API integration"
+      ],
+      "buttonText": "Get Started"
+    },
+    "premium": {
+      "name": "Premium",
+      "price": "€14.99",
+      "period": "/month",
+      "features": [
+        "Unlimited suggestions",
+        "Priority AI processing",
+        "Custom AI training",
+        "Enterprise features"
+      ],
+      "buttonText": "Get Started"
+    }
+  },
+  "installation": {
+    "title": "Installation",
+    "steps": [
+      {
+        "number": 1,
+        "title": "Open Gmail",
+        "description": "In your browser, go to Gmail"
+      },
+      {
+        "number": 2,
+        "title": "Google Workspace Marketplace",
+        "description": "Search for \"MailSense AI\" in the marketplace"
+      },
+      {
+        "number": 3,
+        "title": "Install",
+        "description": "Click \"Install\" and follow the authorization prompts"
+      }
+    ]
+  },
+  "usage": {
+    "title": "How to use MailSense AI",
+    "sections": {
+      "composingEmail": {
+        "title": "Composing an Email",
+        "type": "ordered",
+        "items": [
+          "Start composing a new email in Gmail",
+          "Click the MailSense AI icon in the compose window",
+          "Select your communication style and tone",
+          "Review AI-generated suggestions",
+          "Apply suggestions or customize as needed"
+        ]
+      },
+      "smartReplies": {
+        "title": "Smart Replies",
+        "type": "unordered",
+        "items": [
+          "Automatic: AI suggests replies based on email content",
+          "Manual: Click \"Suggest Reply\" for specific emails",
+          "Custom: Train AI with your preferred response styles"
+        ]
+      },
+      "scheduling": {
+        "title": "Email Scheduling",
+        "type": "unordered",
+        "items": [
+          "Schedule emails for optimal delivery times",
+          "Set up follow-up reminders",
+          "Automate meeting request responses",
+          "Track email engagement metrics"
+        ]
+      }
+    }
+  },
+  "useCases": {
+    "title": "Use Cases",
+    "cases": {
+      "professionals": {
+        "title": "🏢 Professionals",
+        "items": [
+          "Improve email communication efficiency",
+          "Maintain consistent professional tone",
+          "Automate routine email responses",
+          "Track email performance metrics"
+        ]
+      },
+      "salesTeams": {
+        "title": "👥 Sales Teams",
+        "items": [
+          "Optimize email outreach campaigns",
+          "Personalize customer communications",
+          "Automate follow-up sequences",
+          "Analyze response rates and engagement"
+        ]
+      },
+      "customerService": {
+        "title": "🎓 Customer Service",
+        "items": [
+          "Generate consistent support responses",
+          "Improve response time and quality",
+          "Automate common inquiries",
+          "Maintain brand voice consistency"
+        ]
+      }
+    }
+  },
+  "security": {
+    "title": "Security and Privacy",
+    "features": [
+      {
+        "icon": "fas fa-shield-alt",
+        "title": "Secure Data",
+        "description": "All email data remains in your Google account"
+      },
+      {
+        "icon": "fas fa-lock",
+        "title": "No Data Transmission",
+        "description": "No email content is transmitted to third parties"
+      },
+      {
+        "icon": "fas fa-check-circle",
+        "title": "Google Compliance",
+        "description": "Full compliance with Google's privacy policy"
+      },
+      {
+        "icon": "fas fa-key",
+        "title": "Minimal Permissions",
+        "description": "Only necessary permissions are requested"
+      },
+      {
+        "icon": "fas fa-user-secret",
+        "title": "Privacy First",
+        "description": "AI processing happens locally when possible"
+      }
+    ]
+  },
+  "support": {
+    "title": "Support",
+    "subtitle": "We're here to help you",
+    "options": [
+      {
+        "icon": "fas fa-book",
+        "title": "Documentation",
+        "description": "Check our comprehensive user guide"
+      },
+      {
+        "icon": "fas fa-headset",
+        "title": "Support",
+        "description": "Contact us through the add-on interface"
+      },
+      {
+        "icon": "fas fa-star",
+        "title": "Priority Support",
+        "description": "Available for Premium users"
+      },
+      {
+        "icon": "fas fa-graduation-cap",
+        "title": "Training",
+        "description": "AI training and customization support"
+      }
+    ]
+  },
+  "meta": {
+    "title": "MailSense AI - AI Email Assistant | Western Software",
+    "description": "Communicate more effectively with AI-powered email suggestions, smart replies, and scheduling tools that save you time every day.",
+    "keywords": "AI email assistant, smart replies, email automation, communication AI, email productivity, Gmail add-on"
+  }
+}

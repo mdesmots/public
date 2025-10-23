@@ -1,0 +1,217 @@
+{
+  "name": "GmailCleaner",
+  "tagline": "A Google Workspace Add-on that automates your Gmail inbox management to save you time.",
+  "description": "GmailCleaner is an intelligent add-on that allows you to create automation rules to automatically organize your emails. It helps you maintain a clean and organized inbox by applying automatic actions based on customizable criteria.",
+  "shortDescription": "Automate your Gmail inbox management. Create custom rules to organize emails automatically, archive newsletters, and maintain a clean inbox with intelligent automation.",
+  "features": {
+    "automationRules": {
+      "title": "🎯 Automation Rules",
+      "items": [
+        "Create custom rules to organize your emails",
+        "Multiple criteria: sender, subject, attachments, age, labels",
+        "Automatic actions: labeling, archiving, marking as read"
+      ]
+    },
+    "flexibleExecution": {
+      "title": "⚡ Flexible Execution",
+      "items": [
+        "Manual rule execution",
+        "Automatic scheduling (Standard and Premium plans)",
+        "Action history tracking"
+      ]
+    },
+    "advancedManagement": {
+      "title": "📊 Advanced Management",
+      "items": [
+        "Import/Export rules (Standard and Premium plans)",
+        "Priority support (Premium plan)",
+        "Bulk processing for high-volume usage"
+      ]
+    }
+  },
+  "pricing": {
+    "free": {
+      "name": "Free",
+      "price": "€0",
+      "period": "/month",
+      "features": [
+        "5 rules",
+        "10 executions/month",
+        "Free trial",
+        "All features",
+        "Manual execution"
+      ],
+      "buttonText": "Try for free"
+    },
+    "basic": {
+      "name": "Basic",
+      "price": "€0.99",
+      "period": "/month",
+      "featured": true,
+      "features": [
+        "15 rules",
+        "Unlimited manual execution",
+        "Basic actions",
+        "Available fields"
+      ],
+      "buttonText": "Get Started"
+    },
+    "standard": {
+      "name": "Standard",
+      "price": "€3.99",
+      "period": "/month",
+      "features": [
+        "30 rules",
+        "Automatic scheduling",
+        "Import/Export",
+        "History"
+      ],
+      "buttonText": "Get Started"
+    },
+    "premium": {
+      "name": "Premium",
+      "price": "€7.99",
+      "period": "/month",
+      "features": [
+        "Unlimited rules",
+        "Priority support",
+        "Bulk processing",
+        "Team features"
+      ],
+      "buttonText": "Get Started"
+    }
+  },
+  "installation": {
+    "title": "Installation",
+    "steps": [
+      {
+        "number": 1,
+        "title": "Open Gmail",
+        "description": "In your browser, go to Gmail"
+      },
+      {
+        "number": 2,
+        "title": "Google Workspace Marketplace",
+        "description": "Search for \"GmailCleaner\" in the marketplace"
+      },
+      {
+        "number": 3,
+        "title": "Install",
+        "description": "Click \"Install\" and follow the authorization prompts"
+      }
+    ]
+  },
+  "usage": {
+    "title": "How to use GmailCleaner",
+    "sections": {
+      "creatingRule": {
+        "title": "Creating a Rule",
+        "type": "ordered",
+        "items": [
+          "Open Gmail and select an email",
+          "Click the GmailCleaner icon in the sidebar",
+          "Configure your criteria (sender, subject, etc.)",
+          "Define the actions to perform",
+          "Save your rule"
+        ]
+      },
+      "ruleExecution": {
+        "title": "Rule Execution",
+        "type": "unordered",
+        "items": [
+          "Manual: Click \"Execute\" to apply immediately",
+          "Automatic: Schedule execution (Standard and Premium plans)"
+        ]
+      },
+      "ruleManagement": {
+        "title": "Rule Management",
+        "type": "unordered",
+        "items": [
+          "Modify or delete your existing rules",
+          "Import/Export your configurations (Standard and Premium plans)",
+          "View action history (Standard and Premium plans)"
+        ]
+      }
+    }
+  },
+  "useCases": {
+    "title": "Use Cases",
+    "cases": {
+      "professionals": {
+        "title": "🏢 Professionals",
+        "items": [
+          "Automatically organize client emails",
+          "Archive newsletters and promotions",
+          "Label emails by project or priority"
+        ]
+      },
+      "teams": {
+        "title": "👥 Teams",
+        "items": [
+          "Standardize email organization",
+          "Share common rules",
+          "Manage high-volume email traffic"
+        ]
+      },
+      "individuals": {
+        "title": "🎓 Individuals",
+        "items": [
+          "Maintain a clean inbox",
+          "Automate subscription management",
+          "Organize personal emails"
+        ]
+      }
+    }
+  },
+  "security": {
+    "title": "Security and Privacy",
+    "features": [
+      {
+        "icon": "fas fa-shield-alt",
+        "title": "Secure Data",
+        "description": "All data remains in your Google account"
+      },
+      {
+        "icon": "fas fa-lock",
+        "title": "No Data Transmission",
+        "description": "No data is transmitted to third parties"
+      },
+      {
+        "icon": "fas fa-check-circle",
+        "title": "Google Compliance",
+        "description": "Full compliance with Google's privacy policy"
+      },
+      {
+        "icon": "fas fa-key",
+        "title": "Minimal Permissions",
+        "description": "Only necessary permissions are requested"
+      }
+    ]
+  },
+  "support": {
+    "title": "Support",
+    "subtitle": "We're here to help you",
+    "options": [
+      {
+        "icon": "fas fa-book",
+        "title": "Documentation",
+        "description": "Check our comprehensive user guide"
+      },
+      {
+        "icon": "fas fa-headset",
+        "title": "Support",
+        "description": "Contact us through the add-on interface"
+      },
+      {
+        "icon": "fas fa-star",
+        "title": "Priority Support",
+        "description": "Available for Premium users"
+      }
+    ]
+  },
+  "meta": {
+    "title": "GmailCleaner - Gmail Automation Add-on | Western Software",
+    "description": "GmailCleaner - Automate your Gmail inbox management with custom rules. Organize emails automatically, archive newsletters, and maintain a clean inbox. Google Workspace Add-on.",
+    "keywords": "Gmail automation, email organization, Google Workspace, add-on, email rules, inbox management"
+  }
+}

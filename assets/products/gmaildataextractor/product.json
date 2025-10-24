@@ -1,0 +1,235 @@
+{
+    "name": "Gmail Data Extractor",
+    "tagline": "Extract and analyze your Gmail data automatically with professional-grade tools for Google Workspace.",
+    "description": "Gmail Data Extractor is a professional data extraction and analysis solution for Google Workspace. This extension allows you to automatically extract information from your Gmail emails to Google Sheets, providing advanced email content analysis, attachment processing, and secure data management.",
+    "shortDescription": "Automatically extract and analyze Gmail data with professional tools that export directly to Google Sheets for comprehensive email insights.",
+    "features": {
+        "dataExtraction": {
+            "title": "📧 Automatic Data Extraction",
+            "items": [
+                "Automatic email data extraction",
+                "Direct export to Google Sheets",
+                "Advanced email content analysis",
+                "Attachment processing and analysis"
+            ]
+        },
+        "synchronization": {
+            "title": "🔄 Smart Synchronization",
+            "items": [
+                "Automatic synchronization",
+                "Real-time data updates",
+                "Batch processing capabilities",
+                "Scheduled extraction tasks"
+            ]
+        },
+        "security": {
+            "title": "🔐 Secure Data Management",
+            "items": [
+                "GDPR compliance",
+                "No external data storage",
+                "Secure information processing",
+                "Data encryption in transit"
+            ]
+        }
+    },
+    "pricing": {
+        "free": {
+            "name": "Free",
+            "price": "€0",
+            "period": "/month",
+            "features": [
+                "100 emails/month",
+                "Basic data extraction",
+                "Google Sheets export",
+                "Standard support"
+            ],
+            "buttonText": "Try for free"
+        },
+        "basic": {
+            "name": "Basic",
+            "price": "€4.99",
+            "period": "/month",
+            "featured": true,
+            "features": [
+                "500 emails/month",
+                "Advanced extraction filters",
+                "Custom data templates",
+                "Email priority support"
+            ],
+            "buttonText": "Get Started"
+        },
+        "standard": {
+            "name": "Standard",
+            "price": "€9.99",
+            "period": "/month",
+            "features": [
+                "2000 emails/month",
+                "Attachment analysis",
+                "Custom analytics",
+                "API integration"
+            ],
+            "buttonText": "Get Started"
+        },
+        "premium": {
+            "name": "Premium",
+            "price": "€19.99",
+            "period": "/month",
+            "features": [
+                "Unlimited emails",
+                "Sentiment analysis",
+                "Custom dashboards",
+                "Enterprise features"
+            ],
+            "buttonText": "Get Started"
+        }
+    },
+    "installation": {
+        "title": "Installation",
+        "steps": [
+            {
+                "number": 1,
+                "title": "Google Workspace Marketplace",
+                "description": "Go to Google Workspace Marketplace"
+            },
+            {
+                "number": 2,
+                "title": "Search Extension",
+                "description": "Search for \"Gmail Data Extractor\""
+            },
+            {
+                "number": 3,
+                "title": "Install & Authorize",
+                "description": "Click \"Install\" and authorize required permissions"
+            }
+        ]
+    },
+    "usage": {
+        "title": "How to use Gmail Data Extractor",
+        "sections": {
+            "basicExtraction": {
+                "title": "Basic Data Extraction",
+                "type": "ordered",
+                "items": [
+                    "Open Gmail in your browser",
+                    "Select emails you want to analyze",
+                    "Click on Gmail Data Extractor extension",
+                    "Configure extraction settings",
+                    "Launch extraction process"
+                ]
+            },
+            "advancedFeatures": {
+                "title": "Advanced Features",
+                "type": "unordered",
+                "items": [
+                    "Custom data templates for specific needs",
+                    "Attachment processing and analysis",
+                    "Scheduled automatic extractions",
+                    "Real-time data synchronization"
+                ]
+            },
+            "dataAnalysis": {
+                "title": "Data Analysis",
+                "type": "unordered",
+                "items": [
+                    "Export data directly to Google Sheets",
+                    "Create custom analytics dashboards",
+                    "Generate comprehensive reports",
+                    "Track email patterns and trends"
+                ]
+            }
+        }
+    },
+    "useCases": {
+        "title": "Use Cases",
+        "cases": {
+            "businessAnalytics": {
+                "title": "🏢 Business Analytics",
+                "items": [
+                    "Extract customer communication data",
+                    "Analyze email response patterns",
+                    "Track business correspondence trends",
+                    "Generate comprehensive reports"
+                ]
+            },
+            "research": {
+                "title": "🔬 Research & Analysis",
+                "items": [
+                    "Collect research data from emails",
+                    "Analyze communication patterns",
+                    "Extract structured data for studies",
+                    "Process large email datasets"
+                ]
+            },
+            "compliance": {
+                "title": "📋 Compliance & Auditing",
+                "items": [
+                    "Extract emails for compliance review",
+                    "Generate audit reports",
+                    "Track communication history",
+                    "Ensure data retention policies"
+                ]
+            }
+        }
+    },
+    "security": {
+        "title": "Security and Privacy",
+        "features": [
+            {
+                "icon": "fas fa-shield-alt",
+                "title": "GDPR Compliance",
+                "description": "Full compliance with European data protection regulations"
+            },
+            {
+                "icon": "fas fa-lock",
+                "title": "No External Storage",
+                "description": "All data remains within your Google Workspace environment"
+            },
+            {
+                "icon": "fas fa-check-circle",
+                "title": "Secure Processing",
+                "description": "Secure information processing with encryption"
+            },
+            {
+                "icon": "fas fa-key",
+                "title": "Data Encryption",
+                "description": "Data encryption in transit and at rest"
+            },
+            {
+                "icon": "fas fa-user-secret",
+                "title": "Privacy First",
+                "description": "Minimal permissions with privacy-focused design"
+            }
+        ]
+    },
+    "support": {
+        "title": "Support",
+        "subtitle": "We're here to help you succeed",
+        "options": [
+            {
+                "icon": "fas fa-book",
+                "title": "Documentation",
+                "description": "Comprehensive user guide and tutorials"
+            },
+            {
+                "icon": "fas fa-headset",
+                "title": "Technical Support",
+                "description": "Contact us at support@gmaildataextractor.com"
+            },
+            {
+                "icon": "fas fa-star",
+                "title": "Priority Support",
+                "description": "Available for Premium and Standard users"
+            },
+            {
+                "icon": "fas fa-graduation-cap",
+                "title": "Training",
+                "description": "Custom training and implementation support"
+            }
+        ]
+    },
+    "meta": {
+        "title": "Gmail Data Extractor - Professional Email Data Analysis | Western Software",
+        "description": "Automatically extract and analyze Gmail data with professional tools that export directly to Google Sheets for comprehensive email insights.",
+        "keywords": "Gmail data extraction, email analysis, Google Sheets export, data mining, email analytics, Gmail add-on, Google Workspace"
+    }
+}

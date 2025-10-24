@@ -15,7 +15,7 @@
     "flexibleExecution": {
       "title": "⚡ Flexible Execution",
       "items": [
-        "Manual rule execution",
+        "Manual rule application",
         "Automatic scheduling (Standard and Premium plans)",
         "Action history tracking"
       ]
@@ -24,8 +24,7 @@
       "title": "📊 Advanced Management",
       "items": [
         "Import/Export rules (Standard and Premium plans)",
-        "Priority support (Premium plan)",
-        "Bulk processing for high-volume usage"
+        "Priority support (Premium plan)"
       ]
     }
   },
@@ -35,11 +34,8 @@
       "price": "€0",
       "period": "/month",
       "features": [
-        "5 rules",
-        "10 executions/month",
-        "Free trial",
-        "All features",
-        "Manual execution"
+        "5 automation rules",
+        "All features"
       ],
       "buttonText": "Try for free"
     },
@@ -49,10 +45,8 @@
       "period": "/month",
       "featured": true,
       "features": [
-        "15 rules",
-        "Unlimited manual execution",
-        "Basic actions",
-        "Available fields"
+        "15 automation rules",
+        "Manual executions"
       ],
       "buttonText": "Get Started"
     },
@@ -61,10 +55,9 @@
       "price": "€3.99",
       "period": "/month",
       "features": [
-        "30 rules",
-        "Automatic scheduling",
-        "Import/Export",
-        "History"
+        "30 automation rules",
+        "Scheduling & History",
+        "Import & Export"
       ],
       "buttonText": "Get Started"
     },
@@ -73,10 +66,8 @@
       "price": "€7.99",
       "period": "/month",
       "features": [
-        "Unlimited rules",
-        "Priority support",
-        "Bulk processing",
-        "Team features"
+        "Unlimited automation rules",
+        "Priority support"
       ],
       "buttonText": "Get Started"
     }
@@ -120,7 +111,7 @@
         "type": "unordered",
         "items": [
           "Manual: Click \"Execute\" to apply immediately",
-          "Automatic: Schedule execution (Standard and Premium plans)"
+          "Automatic: Schedule rules (Standard and Premium plans)"
         ]
       },
       "ruleManagement": {
@@ -195,7 +186,7 @@
       {
         "icon": "fas fa-book",
         "title": "Documentation",
-        "description": "Check our comprehensive user guide"
+        "description": "Check our comprehensive user guide in the add-on"
       },
       {
         "icon": "fas fa-headset",

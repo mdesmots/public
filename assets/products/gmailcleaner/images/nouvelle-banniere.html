@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nouvelle Bannière GmailCleaner - Orange Charte</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f0f0f0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        .banner-test {
+            text-align: center;
+            margin: 20px 0;
+        }
+        .banner-test svg {
+            border: 3px solid #FFB900;
+            border-radius: 10px;
+            background: white;
+        }
+        .info {
+            background: #fff3cd;
+            padding: 15px;
+            border-radius: 8px;
+            margin: 20px 0;
+            border-left: 4px solid #FFB900;
+        }
+        .color-preview {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            background-color: #FFB900;
+            border-radius: 3px;
+            margin-right: 10px;
+            vertical-align: middle;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Nouvelle Bannière GmailCleaner</h1>
+        
+        <div class="info">
+            <h3>🎨 Nouvelle bannière créée depuis zéro :</h3>
+            <p><span class="color-preview"></span><strong>Couleur principale :</strong> #FFB900 (Orange de la charte)</p>
+            <p><strong>Fichier :</strong> banniere-688-clean.svg</p>
+            <p><strong>Statut :</strong> Logo Western Software supprimé ✅</p>
+            <p><strong>Design :</strong> Fond orange avec contenu GmailCleaner uniquement</p>
+        </div>
+        
+        <div class="banner-test">
+            <h2>Bannière GmailCleaner - Version Propre</h2>
+            <object data="banniere-688-clean.svg" type="image/svg+xml" width="688" height="438">
+                <p>Votre navigateur ne supporte pas les SVG</p>
+            </object>
+        </div>
+        
+        <div class="info">
+            <h3>✅ Caractéristiques de la nouvelle bannière :</h3>
+            <ul>
+                <li>Fond orange (#FFB900) selon la charte graphique</li>
+                <li>Aucun logo Western Software</li>
+                <li>Focus uniquement sur GmailCleaner</li>
+                <li>Design épuré et professionnel</li>
+                <li>Fonctionnalités clairement présentées</li>
+            </ul>
+        </div>
+    </div>
+    
+    <script>
+        // Forcer le rechargement du SVG
+        setTimeout(() => {
+            const object = document.querySelector('object');
+            if (object) {
+                object.data = object.data + '?t=' + Date.now();
+            }
+        }, 1000);
+    </script>
+</body>
+</html>

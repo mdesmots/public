@@ -35,6 +35,7 @@
       "period": "/month",
       "features": [
         "5 automation rules",
+        "10 executions/month",
         "All features"
       ],
       "buttonText": "Try for free"
@@ -46,6 +47,7 @@
       "featured": true,
       "features": [
         "15 automation rules",
+        "100 executions/month",
         "Manual executions"
       ],
       "buttonText": "Get Started"
@@ -56,7 +58,8 @@
       "period": "/month",
       "features": [
         "30 automation rules",
-        "Scheduling & History",
+        "1000 executions/month",
+        "Scheduling, History",
         "Import & Export"
       ],
       "buttonText": "Get Started"
@@ -67,6 +70,7 @@
       "period": "/month",
       "features": [
         "Unlimited automation rules",
+        "Unlimited executions/month",
         "Priority support"
       ],
       "buttonText": "Get Started"

@@ -1,0 +1,7 @@
+{
+    "version": "1.0.0",
+    "lastUpdateDate": "2025-11-10",
+    "module": "public",
+    "description": "Sous-module public - Assets publics et ressources partagées",
+    "repository": "https://github.com/mdesmots/public.git"
+}

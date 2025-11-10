@@ -1,7 +1,7 @@
 {
-  "name": "GmailCleaner",
+  "name": "Cleaner for Gmail™",
   "tagline": "A Google Workspace Add-on that automates your Gmail inbox management to save you time.",
-  "description": "GmailCleaner is an intelligent add-on that allows you to create automation rules to automatically organize your emails. It helps you maintain a clean and organized inbox by applying automatic actions based on customizable criteria.",
+  "description": "Cleaner for Gmail™ is an intelligent add-on that allows you to create automation rules to automatically organize your emails. It helps you maintain a clean and organized inbox by applying automatic actions based on customizable criteria.",
   "shortDescription": "Automate your Gmail inbox management. Create custom rules to organize emails automatically, archive newsletters, and maintain a clean inbox with intelligent automation.",
   "features": {
     "automationRules": {
@@ -87,7 +87,7 @@
       {
         "number": 2,
         "title": "Google Workspace Marketplace",
-        "description": "Search for \"GmailCleaner\" in the marketplace"
+        "description": "Search for \"Cleaner for Gmail™\" in the marketplace"
       },
       {
         "number": 3,
@@ -97,14 +97,14 @@
     ]
   },
   "usage": {
-    "title": "How to use GmailCleaner",
+    "title": "How to use Cleaner for Gmail™",
     "sections": {
       "creatingRule": {
         "title": "Creating a Rule",
         "type": "ordered",
         "items": [
           "Open Gmail and select an email",
-          "Click the GmailCleaner icon in the sidebar",
+          "Click the Cleaner for Gmail™ icon in the sidebar",
           "Configure your criteria (sender, subject, etc.)",
           "Define the actions to perform",
           "Save your rule"
@@ -205,8 +205,8 @@
     ]
   },
   "meta": {
-    "title": "GmailCleaner - Gmail Automation Add-on | Western Software",
-    "description": "GmailCleaner - Automate your Gmail inbox management with custom rules. Organize emails automatically, archive newsletters, and maintain a clean inbox. Google Workspace Add-on.",
+    "title": "Cleaner for Gmail™ - Gmail Automation Add-on | Western Software",
+    "description": "Cleaner for Gmail™ - Automate your Gmail inbox management with custom rules. Organize emails automatically, archive newsletters, and maintain a clean inbox. Google Workspace Add-on.",
     "keywords": "Gmail automation, email organization, Google Workspace, add-on, email rules, inbox management"
   }
 }

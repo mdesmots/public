@@ -54,7 +54,8 @@
         "100 invoices/month",
         "Advanced AI features",
         "Image processing",
-        "Auto-categorization"
+        "Auto-categorization",
+        "Export to spreadsheet"
       ],
       "buttonText": "Get Started"
     },
@@ -64,9 +65,11 @@
       "period": "/month",
       "features": [
         "500 invoices/month",
+        "Full data extraction",
         "Bulk processing",
         "Custom fields",
-        "API access"
+        "API access",
+        "Export to spreadsheet"
       ],
       "buttonText": "Get Started"
     },
@@ -76,9 +79,12 @@
       "period": "/month",
       "features": [
         "2,000 invoices/month",
+        "Full data extraction",
         "Priority processing",
         "Custom templates",
-        "Team collaboration"
+        "Team collaboration",
+        "Export to spreadsheet",
+        "Schedule analysis"
       ],
       "buttonText": "Get Started"
     }

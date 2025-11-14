@@ -38,55 +38,68 @@
       "price": "€0",
       "period": "/month",
       "features": [
-        "10 invoices/month",
-        "Basic AI analysis",
-        "PDF processing",
-        "Manual export"
+        "3 invoices in total",
+        "Full data extraction",
+        "Export to spreadsheet"
       ],
       "buttonText": "Try for free"
     },
     "basic": {
       "name": "Basic",
-      "price": "€4.99",
+      "price": "€1.99",
       "period": "/month",
       "featured": true,
       "features": [
-        "100 invoices/month",
-        "Advanced AI features",
-        "Image processing",
-        "Auto-categorization",
+        "15 invoices per month",
+        "Full data extraction",
         "Export to spreadsheet"
       ],
       "buttonText": "Get Started"
     },
     "standard": {
       "name": "Standard",
-      "price": "€14.99",
+      "price": "€4.99",
       "period": "/month",
       "features": [
-        "500 invoices/month",
+        "50 invoices per month",
         "Full data extraction",
         "Bulk processing",
-        "Custom fields",
-        "API access",
         "Export to spreadsheet"
       ],
       "buttonText": "Get Started"
     },
     "premium": {
       "name": "Premium",
-      "price": "€29.99",
+      "price": "€19.99",
       "period": "/month",
       "features": [
-        "2,000 invoices/month",
+        "300 invoices per month",
         "Full data extraction",
+        "Bulk processing",
         "Priority processing",
-        "Custom templates",
-        "Team collaboration",
         "Export to spreadsheet",
         "Schedule analysis"
       ],
       "buttonText": "Get Started"
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "price": "Contact us",
+      "period": "",
+      "features": [
+        "Unlimited invoices",
+        "Full data extraction",
+        "Bulk processing",
+        "Priority processing",
+        "Custom templates",
+        "Team collaboration",
+        "API access",
+        "Dedicated support",
+        "Custom integrations",
+        "Export to spreadsheet",
+        "Schedule analysis"
+      ],
+      "buttonText": "Contact Sales"
     }
   },
   "installation": {

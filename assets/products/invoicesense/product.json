@@ -39,8 +39,9 @@
       "period": "/month",
       "features": [
         "3 invoices in total",
-        "Full data extraction",
-        "Export to spreadsheet"
+        "Basic data extraction",
+        "Limited fields",
+        "Manual export"
       ],
       "buttonText": "Try for free"
     },
@@ -63,7 +64,8 @@
       "features": [
         "50 invoices per month",
         "Full data extraction",
-        "Bulk processing",
+        "All fields available",
+        "Detailed invoice items",
         "Export to spreadsheet"
       ],
       "buttonText": "Get Started"
@@ -75,10 +77,10 @@
       "features": [
         "300 invoices per month",
         "Full data extraction",
-        "Bulk processing",
-        "Priority processing",
+        "All fields available",
+        "Detailed invoice items",
         "Export to spreadsheet",
-        "Schedule analysis"
+        "Schedule analysis (soon)"
       ],
       "buttonText": "Get Started"
     },
@@ -89,15 +91,11 @@
       "features": [
         "Unlimited invoices",
         "Full data extraction",
-        "Bulk processing",
-        "Priority processing",
-        "Custom templates",
-        "Team collaboration",
-        "API access",
-        "Dedicated support",
-        "Custom integrations",
+        "All fields available",
+        "Detailed invoice items",
         "Export to spreadsheet",
-        "Schedule analysis"
+        "Schedule analysis (soon)",
+        "Dedicated support"
       ],
       "buttonText": "Contact Sales"
     }

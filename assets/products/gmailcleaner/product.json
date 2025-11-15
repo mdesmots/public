@@ -29,9 +29,11 @@
     }
   },
   "pricing": {
+    "currency": "eur",
     "free": {
       "name": "Free",
       "price": "€0",
+      "unitAmount": 0,
       "period": "/month",
       "features": [
         "5 automation rules",
@@ -43,6 +45,7 @@
     "basic": {
       "name": "Basic",
       "price": "€2.99",
+      "unitAmount": 299,
       "period": "/month",
       "featured": true,
       "features": [
@@ -55,6 +58,7 @@
     "standard": {
       "name": "Standard",
       "price": "€9.99",
+      "unitAmount": 999,
       "period": "/month",
       "features": [
         "30 automation rules",
@@ -67,6 +71,7 @@
     "premium": {
       "name": "Premium",
       "price": "€19.99",
+      "unitAmount": 1999,
       "period": "/month",
       "features": [
         "Unlimited automation rules",

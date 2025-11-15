@@ -33,9 +33,11 @@
         }
     },
     "pricing": {
+        "currency": "eur",
         "free": {
             "name": "Free",
             "price": "€0",
+            "unitAmount": 0,
             "period": "/month",
             "features": [
                 "100 emails/month",
@@ -48,6 +50,7 @@
         "basic": {
             "name": "Basic",
             "price": "€4.99",
+            "unitAmount": 499,
             "period": "/month",
             "featured": true,
             "features": [
@@ -61,6 +64,7 @@
         "standard": {
             "name": "Standard",
             "price": "€9.99",
+            "unitAmount": 999,
             "period": "/month",
             "features": [
                 "2000 emails/month",
@@ -73,6 +77,7 @@
         "premium": {
             "name": "Premium",
             "price": "€19.99",
+            "unitAmount": 1999,
             "period": "/month",
             "features": [
                 "Unlimited emails",

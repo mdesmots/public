@@ -19,9 +19,9 @@
       "category": "Financial Management",
       "pricing": {
         "free": "€0/month",
-        "basic": "€4.99/month",
-        "standard": "€14.99/month",
-        "premium": "€29.99/month"
+        "basic": "€1.99/month",
+        "standard": "€4.99/month",
+        "premium": "€19.99/month"
       }
     },
     "mailsense": {

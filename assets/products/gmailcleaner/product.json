@@ -42,7 +42,7 @@
     },
     "basic": {
       "name": "Basic",
-      "price": "€0.99",
+      "price": "€2.99",
       "period": "/month",
       "featured": true,
       "features": [
@@ -54,7 +54,7 @@
     },
     "standard": {
       "name": "Standard",
-      "price": "€3.99",
+      "price": "€9.99",
       "period": "/month",
       "features": [
         "30 automation rules",
@@ -66,7 +66,7 @@
     },
     "premium": {
       "name": "Premium",
-      "price": "€7.99",
+      "price": "€19.99",
       "period": "/month",
       "features": [
         "Unlimited automation rules",

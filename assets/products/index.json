@@ -7,9 +7,9 @@
       "category": "Email Management",
       "pricing": {
         "free": "€0/month",
-        "basic": "€0.99/month",
-        "standard": "€3.99/month",
-        "premium": "€7.99/month"
+        "basic": "€2.99/month",
+        "standard": "€9.99/month",
+        "premium": "€19.99/month"
       }
     },
     "invoicesense": {

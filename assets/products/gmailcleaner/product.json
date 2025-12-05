@@ -209,6 +209,26 @@
       }
     ]
   },
+  "screenshots": {
+    "title": "Screenshots",
+    "images": [
+      {
+        "title": "Home - First Steps",
+        "description": "Get started with Cleaner for Gmail™ and set up your first automation rules",
+        "url": "https://raw.githubusercontent.com/mdesmots/public/main/assets/products/gmailcleaner/screenshots/home-first.png"
+      },
+      {
+        "title": "Create New Rule",
+        "description": "Easily configure automation rules with customizable conditions and actions",
+        "url": "https://raw.githubusercontent.com/mdesmots/public/main/assets/products/gmailcleaner/screenshots/new-rule.png"
+      },
+      {
+        "title": "Rule Execution",
+        "description": "Execute your rules and see the results in real-time",
+        "url": "https://raw.githubusercontent.com/mdesmots/public/main/assets/products/gmailcleaner/screenshots/execution.png"
+      }
+    ]
+  },
   "meta": {
     "title": "Cleaner for Gmail™ - Gmail Automation Add-on | Western Software",
     "description": "Cleaner for Gmail™ - Automate your Gmail inbox management with custom rules. Organize emails automatically, archive newsletters, and maintain a clean inbox. Google Workspace Add-on.",

@@ -4,6 +4,41 @@ Historique des modifications du fichier `product.json` pour GmailCleaner.
 
 ---
 
+## 2025-12-05 - Intégration Site Web et Screenshots
+
+### ✅ Modifications Site Web
+
+- **Ajout des boutons d'installation** vers le Google Workspace Marketplace
+  - Bouton "Install" sur la page d'accueil (liste des produits)
+  - Bouton "Install from Marketplace" dans la page de détails du produit
+  - Boutons des cartes de prix liés au marketplace
+  - URL du marketplace : `https://workspace.google.com/marketplace/app/cleaner_for_gmail/175823175354`
+
+- **Intégration des screenshots** dans la page de détails
+  - Nouvelle section "Screenshots" entre "Use Cases" et "Security"
+  - Affichage de 3 screenshots :
+    - `home-first.png` - Page d'accueil et premiers pas
+    - `new-rule.png` - Création d'une nouvelle règle
+    - `execution.png` - Exécution des règles
+  - Grille responsive avec cartes stylisées
+
+### ✅ Modifications `product.json`
+
+- **Ajout de la section `screenshots`** dans le fichier `product.json`
+  - Structure avec titre et liste d'images
+  - Chaque screenshot contient : `title`, `description`, `url`
+  - URLs pointant vers GitHub (raw.githubusercontent.com)
+
+### 📋 Fichiers Modifiés
+
+- `ws-portal/dist/index.html` - Ajout du bouton Install
+- `ws-portal/dist/products.html` - Ajout de la section screenshots
+- `ws-portal/dist/js/product-loader.js` - Fonction `renderScreenshots()` et gestion des boutons
+- `ws-portal/dist/styles.css` - Styles pour les screenshots et boutons
+- `public/assets/products/gmailcleaner/product.json` - Section screenshots ajoutée
+
+---
+
 ## 2025-11-15 - Stabilisation de la Structure
 
 ### ✅ Modifications

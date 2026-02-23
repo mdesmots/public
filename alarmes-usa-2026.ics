@@ -1,0 +1,118 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//USA Roadtrip 2026//Alarmes//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:USA-2026 — Alarmes
+X-WR-CALDESC:Alarmes et rappels pour la préparation du voyage USA 2026
+X-WR-TIMEZONE:Europe/Paris
+
+BEGIN:VEVENT
+UID:alarme-assurance-2026@usa-roadtrip
+DTSTART;TZID=Europe/Paris:20260225T090000
+DTEND;TZID=Europe/Paris:20260225T093000
+SUMMARY:🔴⚠️ URGENT — Souscrire assurance voyage (4 personnes)
+DESCRIPTION:Souscrire l'assurance voyage avant le 28 février 2026 !\nHeymondo recommandé (formule Top : ~180-250€)\nhttps://www.heymondo.fr/\nCouvre : frais médicaux USA\, rapatriement\, annulation\nPour : Marc\, Catherine\, Camille\, Axel\nDates du voyage : 8 juillet → 31 juillet 2026
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:🔴 Souscrire assurance voyage AUJOURD'HUI (délai : 28 fév.)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:🔴 Demain : souscrire assurance voyage (délai : 28 fév.)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:alarme-baseball-mets-2026@usa-roadtrip
+DTSTART;TZID=Europe/Paris:20260315T090000
+DTEND;TZID=Europe/Paris:20260315T093000
+SUMMARY:🟡 Acheter billets Baseball — Mets vs Braves (28 juil.)
+DESCRIPTION:Surveiller l'ouverture des billets pour le match du 28 juillet 2026\nNew York Mets vs Atlanta Braves — Citi Field\, Queens\nAccès : Métro ligne 7\nhttps://www.mlb.com/mets/tickets/single-game-tickets\nPrévoir ~30-80$/place selon catégorie
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:🟡 Vérifier disponibilité billets Mets vs Braves (28 juil.)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:🟡 Demain : vérifier billets Baseball Mets vs Braves
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:alarme-angels-landing-2026@usa-roadtrip
+DTSTART;TZID=Europe/Paris:20260315T100000
+DTEND;TZID=Europe/Paris:20260315T103000
+SUMMARY:🔴 Loterie Angels Landing — Permis NPS (Zion\, 15-16 juil.)
+DESCRIPTION:Participer à la loterie mensuelle Angels Landing sur Recreation.gov\nPermis obligatoire depuis 2022 pour accéder au sommet\nLoterie ouverte chaque mois — tenter pour le mois de juillet\nhttps://www.recreation.gov/\nZion National Park — 15 ou 16 juillet 2026
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:🔴 Participer loterie Angels Landing sur Recreation.gov
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:🔴 Demain : loterie Angels Landing (Recreation.gov)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:alarme-alcatraz-2026@usa-roadtrip
+DTSTART;TZID=Europe/Paris:20260401T090000
+DTEND;TZID=Europe/Paris:20260401T093000
+SUMMARY:🔴 Réserver Alcatraz — 9 juillet (ouverture réservations)
+DESCRIPTION:Réserver le ferry Alcatraz dès aujourd'hui (90 jours avant le 9 juillet)\nhttps://www.alcatrazcruises.com/\nCréneau conseillé : 9h00\nTarifs : ~53$/adulte\, ~35$/enfant\nPour 4 personnes : Marc\, Catherine\, Camille\, Axel\n⚠️ Se remplit très vite en juillet — réserver dès l'ouverture !
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:🔴 Réserver Alcatraz MAINTENANT sur alcatrazcruises.com
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:🔴 Demain : réserver Alcatraz (ouverture des réservations)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:alarme-antelope-canyon-2026@usa-roadtrip
+DTSTART;TZID=Europe/Paris:20260415T090000
+DTEND;TZID=Europe/Paris:20260415T093000
+SUMMARY:🔴 Réserver Antelope Canyon — visite guidée (19-20 juil.)
+DESCRIPTION:Réserver la visite guidée Antelope Canyon (20 juil. 2026)\nVisite guidée Navajo obligatoire — pas d'accès libre\nUpper Antelope Canyon : https://www.antelopecanyon.com/\nLower Antelope Canyon : https://www.antelopelowercanyon.com/\nMeilleure lumière : 10h-13h (Upper)\nPrix : ~50-100$/personne\n⚠️ Complet 2-3 mois à l'avance en haute saison !
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:🔴 Réserver Antelope Canyon — visite guidée obligatoire
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:🔴 Demain : réserver Antelope Canyon (visite guidée)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:alarme-statue-liberte-2026@usa-roadtrip
+DTSTART;TZID=Europe/Paris:20260501T090000
+DTEND;TZID=Europe/Paris:20260501T093000
+SUMMARY:🟢 Réserver Statue de la Liberté — 28 juillet
+DESCRIPTION:Réserver les billets pour la Statue de la Liberté (28 juillet 2026)\nhttps://www.statueofliberty.org/\nPrix : ~25-30$/personne\nPour 4 personnes : Marc\, Catherine\, Camille\, Axel\nAccès en ferry depuis Battery Park (Manhattan) ou Liberty State Park (NJ)
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:🟢 Réserver Statue de la Liberté sur statueofliberty.org
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:🟢 Demain : réserver Statue de la Liberté
+END:VALARM
+END:VEVENT
+
+END:VCALENDAR

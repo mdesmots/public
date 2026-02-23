@@ -1,0 +1,425 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//USA Road Trip 2026//Planning Complet//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:USA 2026 - Planning complet
+X-WR-TIMEZONE:America/Los_Angeles
+
+BEGIN:VEVENT
+UID:j01-programme-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260709
+SUMMARY:✈️ J01 - Rennes → San Francisco
+DESCRIPTION:08h30 Départ aéroport Rennes (RNS)\n11h05 Vol AF7531 RNS→CDG (arr. 12h20)\n15h45 Vol AF82 CDG→SFO (11h30 de vol)\n18h00 Arrivée SFO - formalités ESTA\n19h30 Transfert SFO → hôtel (BART ou Uber)\n20h30 Check-in Hyatt Place SF Downtown (701 3rd St)\n21h30 Dîner léger\n🏨 Hyatt Place - 343€86 payé (conf. Expedia 72070565315363)
+CATEGORIES:Programme
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j02-programme-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:🏙️ J02 - San Francisco + Prise camping-car
+DESCRIPTION:07h00 Petit-déjeuner (diner américain - Mel's ou Pinecrest)\n08h00 Check-out hôtel (bagages en consigne)\n09h00 Alcatraz - ferry depuis Pier 33 (audio-guide inclus)\n12h00 Fisherman's Wharf - déjeuner Boudin Bakery\n14h30 Golden Gate Bridge (Fort Point)\n15h30 Récupération bagages hôtel\n16h00 Roadsurfer - Prise camping-car (588 Brannan St)\n18h30 Courses Safeway sur la route\n20h00 Arrivée Half Moon Bay RV Park (460 Wavecrest Rd)\n🏕️ Half Moon Bay RV Park - 1ère nuit en camping-car
+CATEGORIES:Programme
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j03-programme-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:🚗 J03 - Half Moon Bay → Monterey → Oakhurst
+DESCRIPTION:09h00 Réveil + check-out Half Moon Bay RV Park\n10h30 Départ vers Monterey (Hwy 1, 17 miles)\n11h15 Arrivée Monterey - Cannery Row\n11h15-14h00 Visite Monterey (aquarium optionnel\, front de mer\, vieux centre)\n14h00 Route Monterey → Oakhurst (~320 km\, 4h30 - CA-101/CA-152/CA-99/CA-41)\n18h30 Check-in High Sierra RV and Mobile Park (40389 Hwy 41\, Oakhurst)\n19h30 Dîner + préparation lendemain (Mariposa Grove)\n🏕️ High Sierra RV - conf. 12297938 - Full Hookups
+CATEGORIES:Programme
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j04-programme-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:🌲 J04 - Mariposa Grove (séquoias) → Sweetwater
+DESCRIPTION:08h00 Départ High Sierra RV (check-out avant 11h)\nRoute vers Mariposa Grove (entrée sud Yosemite\, CA-41)\n10h00 Parking Welcome Plaza (limite 25 ft pour RV)\n10h00-11h10 Mariposa Grove - boucle courte (~1h10) : Grizzly Giant\, California Tunnel Tree\nOU 09h30-12h45 Mariposa Grove - boucle longue (~3h15)\n12h00 Pique-nique (parking Wawona)\n12h00 Route → Sweetwater Campground (Stanislaus NF\, ~1-2h)\n14h00 Check-in Sweetwater Campground\nTunnel View + Mist Trail + El Capitan prévus au Jour 5\n🏕️ Sweetwater Campground - conf. reservation-camping-11-07.pdf
+CATEGORIES:Programme
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j05-programme-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:🥾 J05 - Yosemite Valley (Mist Trail) → Bass Lake
+DESCRIPTION:06h30 Départ Sweetwater → Yosemite Valley (Tunnel View en chemin)\n07h30 Parking Upper Pines\n07h45 Navette → Happy Isles\n07h45-12h00 Mist Trail : Vernal Fall + Nevada Fall (12\,8 km\, 815m D+\, ~5h30)\n12h45 Navette → El Capitan Meadow\n13h00-14h00 El Capitan (vue paroi 900m\, grimpeurs)\n14h15-15h30 Yosemite Falls (Lower Yosemite Fall Trail 1\,6 km)\n16h00 Route Yosemite → Bass Lake (~80-100 km\, 1h30-2h)\n18h30 Check-in Oh Ridge Campground - site 141 (Deer)\n🏕️ Oh Ridge Campground - Bass Lake - conf. reservation-camping-12-07.pdf
+CATEGORIES:Programme
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j06-programme-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260714
+SUMMARY:🏜️ J06 - Oh Ridge → Father Crowley → Death Valley
+DESCRIPTION:07h00 Petit-déjeuner + check-out Oh Ridge\n08h00-08h30 Plein d'essence (Bishop ou zone June Lake)\n08h30-11h30 Route Oh Ridge → Father Crowley (~200 km\, US-395 S + CA-190 E)\n11h30-12h30 Father Crowley Vista Point (canyon spectaculaire\, marche bord du canyon)\n12h30-13h00 Pique-nique sur place\n13h00-14h30 Route → Death Valley (traversée Panamint Valley\, CA-190)\n14h30-16h00 Mesquite Flat Sand Dunes (Stovepipe Wells)\n16h00-17h00 Route → Furnace Creek\n17h00 Check-in The Ranch at Death Valley\n18h00 Piscine (source chaude incluse)\, dîner\n⚠️ Chaleur : 28-45°C - beaucoup d'eau indispensable\n🏕️ The Ranch at Death Valley (Furnace Creek) - conf. reservation-camping-13-07.pdf
+CATEGORIES:Programme
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j07-programme-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:🌋 J07 - Death Valley (Badwater\, Artist Drive\, Zabriskie) → Valley of Fire
+DESCRIPTION:05h30 Réveil + départ Furnace Creek (lever soleil 06h34)\n06h00-07h00 ⭐⭐⭐ Badwater Basin (-86m\, croûte de sel)\n07h00-08h00 ⭐⭐⭐ Artist Drive (route panoramique 14km\, sens unique\, RV ≤25ft OK)\n08h00-10h00 ⭐⭐⭐ Golden Canyon (rando ~3km\, 1h30-2h\, Red Cathedral)\n10h00-11h00 Déjeuner Furnace Creek Visitor Center\n11h00-11h30 ⭐⭐⭐ Zabriskie Point (badlands multicolores)\n11h30-12h00 Dante's View (option\, 1669m\, vérifier limite RV)\n14h00-17h00 Route → Valley of Fire (CA-160/I-15/NV-169\, ~280 km)\n17h00-19h00 ⭐⭐ Rando autour Atlatl Rock Campground (roches rouges)\n🏕️ Atlatl Rock Campground - Valley of Fire State Park - conf. reservation-camping-14-07.pdf
+CATEGORIES:Programme
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j08-programme-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+SUMMARY:🏔️ J08 - Valley of Fire → Zion National Park (J1)
+DESCRIPTION:Matin : Départ Valley of Fire → Zion (~270 km\, 2h30-3h)\nActivités Zion :\n⭐⭐⭐ Angels Landing (8\,7 km A/R\, 453m D+\, 4-5h - PERMIS NPS OBLIGATOIRE)\n⭐⭐ Canyon Overlook Trail (1\,6 km A/R\, facile-modéré\, 1h)\n⭐⭐ The Narrows (rando aquatique dans la Virgin River\, optionnel)\nPa'rus Trail (balade facile en fin de journée)\n⚠️ Angels Landing : permis loterie NPS - réserver à l'avance sur recreation.gov\n🏕️ Zion Canyon Campground (479 Zion Park Blvd\, Springdale) - site E24 - conf. 36232388
+CATEGORIES:Programme
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j09-programme-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+SUMMARY:🏔️ J09 - Zion National Park (J2 - journée complète)
+DESCRIPTION:Journée complète dans Zion National Park\nRandonnées possibles :\n→ Observation Point Trail (13 km A/R\, 650m D+\, difficile - vue panoramique sur la vallée)\n→ Hidden Canyon (4\,8 km A/R\, modéré\, 265m D+)\n→ The Narrows (si non fait J8 - rando aquatique\, 2-6h)\n→ Riverside Walk (facile\, 3 km A/R - accès Narrows)\n→ Emerald Pools Trails (facile à modéré)\nNavettes gratuites dans le parc\n🏕️ Zion Canyon Campground - site E24 (2e nuit - conf. 36232388)
+CATEGORIES:Programme
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j10-programme-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:🌄 J10 - Zion → Bryce Canyon (hoodoos)
+DESCRIPTION:09h00 Départ Springdale → Bryce Canyon (140 km\, 2h via US-89)\nBryce Canyon :\n⭐⭐⭐ Sunrise Point - lever de soleil (arriver 30 min avant)\n⭐⭐⭐ Navajo Loop + Queens Garden combiné (4\,6 km boucle\, 2-3h\, modéré\, 170m D+)\n→ Descente par Sunrise Point\, remonter Navajo Loop (Wall Street)\n→ Vue depuis le bas : forêt de hoodoos\n⭐ Scenic Drive (29 km aller\, Rainbow Point au sud)\n🏕️ Ruby's Inn RV Park - site EW093 (code 7UJ47M) - piscine chauffée + spa\n☀️ Altitude 2400m - 10-15°C plus frais\, températures 15-28°C
+CATEGORIES:Programme
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j11-programme-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:🐎 J11 - Bryce Canyon → Page (Horseshoe Bend)
+DESCRIPTION:09h00 Départ Bryce Canyon → Page\, AZ (240 km\, 3h via Kanab)\nRoute via Kanab (ville western typique)\n14h00-16h00 ⭐⭐⭐ Horseshoe Bend - méandre Colorado River\n→ 2\,4 km A/R\, 30-45 min\, parking 10$\n→ Vue plongeante à 300m\, garder enfants près de soi\n17h00-18h00 Séance photo golden hour\n⚠️ Chaleur : 28-38°C - eau indispensable\n🏕️ Roam Horseshoe Bend RV Resort (1099 Coppermine Rd\, Page AZ) - CampSpot 172 - piscine chauffée
+CATEGORIES:Programme
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j12-programme-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:📸 J12 - Page : Antelope Canyon + Lake Powell
+DESCRIPTION:09h00-12h00 ⭐⭐⭐ Antelope Canyon (visite guidée Navajo obligatoire\, ~1h30)\n→ Meilleure lumière 10h-13h (rayons de lumière Upper Antelope)\n→ Réservation 2-3 mois à l'avance\, arriver 30 min en avance\n→ Sans flash\, mode HDR\, pas de grands sacs\n→ Frais à l'intérieur (20-25°C)\n14h00-17h00 Lake Powell :\n→ Barrage Glen Canyon (visite gratuite)\n→ Baignade : Lone Rock Beach OU Wahweap Marina OU Antelope Point\n→ Option kayak/paddle à Antelope Point\n→ Eau à 25-27°C en juillet\n⚠️ Chaleur : 30-40°C\n🏕️ Roam Horseshoe Bend RV Resort (2e nuit)
+CATEGORIES:Programme
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j13-programme-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+SUMMARY:🏜️ J13 - Page → Monument Valley
+DESCRIPTION:09h00 Départ Page → Monument Valley (200 km\, 2h\, US-163 panoramique)\n11h00 Arrivée Monument Valley - Visitor Center\, installation camping\n13h00-16h00 ⭐⭐⭐ Valley Drive (piste\, 11 arrêts) :\n→ 1. The Mittens View (vue classique 3 buttes)\n→ 3. Three Sisters\n→ 4. John Ford's Point ⭐\n→ Camel Butte\, Elephant Butte\n17h00-18h00 ⭐⭐⭐ Coucher de soleil spectaculaire\n⚠️ Piste cahoteuse\, beaucoup de poussière rouge\n⚠️ Terre Navajo sacrée - respecter les règles\n🏕️ The View Campground - Monument Valley - conf. reservation-camping-20-07.pdf
+CATEGORIES:Programme
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j14-programme-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260722
+SUMMARY:🏞️ J14 - Monument Valley → Grand Canyon South Rim
+DESCRIPTION:Lever de soleil à Monument Valley (tôt le matin)\n11h00 Route → Grand Canyon South Rim (~280 km\, 4h\, traversée réserve Navajo)\nPlein d'essence avant le parc\n13h00 Arrivée Grand Canyon - Visitor Center\, installation Trailer Village\n15h00 Rim Trail : Mather Point ⭐⭐⭐\, Yavapai Observation Station\n17h00-18h00 ⭐⭐⭐ Coucher de soleil (Hopi Point via navette rouge)\nNavettes gratuites : bleue (villages)\, rouge (Hermit's Rest)\, orange (Kaibab/Rim)\n☀️ Altitude 2100m - températures 20-32°C\n🏕️ Trailer Village RV Park (Grand Canyon Village) - conf. 63275SG332461
+CATEGORIES:Programme
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j15-programme-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:🦅 J15 - Grand Canyon — Randonnées (2e journée)
+DESCRIPTION:Lever de soleil tôt (Yaki Point - navette orange\, ou Mather Point)\nRandonnées proposées :\n→ ⭐⭐⭐ South Kaibab Trail : Ooh Aah Point (3 km A/R\, modéré) ou Cedar Ridge (6 km A/R)\n→ ⭐⭐ Bright Angel Trail : descente partielle (1,5 Mile Resthouse aller-retour)\n→ Rim Trail (facile\, accessible\, belvédères enchainés)\nNavettes gratuites disponibles\n⚠️ Pas de descente jusqu'au fond en juillet (chaleur extrême)\n⚠️ 3-4L d'eau par personne\n🏕️ Trailer Village RV Park (2e nuit - conf. 63275SG332461)
+CATEGORIES:Programme
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j16-programme-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+SUMMARY:🎰 J16 - Grand Canyon → Las Vegas
+DESCRIPTION:Dernier lever de soleil au Grand Canyon\nRoute → Las Vegas (~380 km\, 4h30)\n12h00-13h30 Pause déjeuner ⭐ Mr D'z Route 66 Diner (105 E Andy Devine Ave\, Kingman AZ)\n→ Diner vintage\, burgers\, milk-shakes\, ambiance Route 66\n14h00 Check-in Tuscany Suites & Casino\n15h00 Découverte Las Vegas Strip\n→ Bellagio (fontaines ⭐⭐⭐)\, Venetian\, Caesar's Palace\, Luxor\n→ Fremont Street Experience (Downtown)\n🏕️ Trailer Village RV Park (3e nuit 23→24 juil. - conf. 63275SG332463)\n🏨 Tuscany Suites & Casino dès le 24 juil.
+CATEGORIES:Programme
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j17-programme-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:🎰 J17 - Las Vegas + Restitution camping-car (17h)
+DESCRIPTION:Matinée relaxante - piscine\, spa Tuscany\n⚠️ 17h00 RESTITUTION CAMPING-CAR ROADSURFER (Las Vegas)\nExploration Las Vegas Strip :\n→ Bellagio (fontaines toutes les 15-30 min)\n→ Venetian & Palazzo (canaux)\n→ Caesar's Palace (Forum Shops)\n→ Luxor (pyramide)\, Paris (Tour Eiffel)\, NY-NY\nDowntown - Fremont Street Experience (voûte LED)\nSoirée spectacle optionnel (Cirque du Soleil O\, KÀ\, Mystère...)\n💡 Monorail 12$/jour ou Uber/Lyft\n🏨 Tuscany Suites & Casino (1re nuit 24→25)
+CATEGORIES:Programme
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j18-programme-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:🎰 J18 - Las Vegas — Journée libre + Vol de nuit vers Newark
+DESCRIPTION:Matin : Restitution véhicule de location (faire le plein avant)\nJournée libre Las Vegas :\n→ Piscine\, spa\n→ Neon Museum (~25$)\, Mob Museum (~30$)\n→ Red Rock Canyon (30 min - si voiture disponible)\nAprès-midi : Repos avant vol de nuit\n21h30-22h00 Départ hôtel → Aéroport McCarran (LAS) - Uber ~15-25$\n22h00 Arrivée aéroport\, enregistrement\, sécurité\n23h55 ✈️ Vol UA406 LAS → EWR Newark (4h40)\n🏨 Tuscany Suites & Casino (2e nuit 25→26)
+CATEGORIES:Programme
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j19-programme-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:✈️ J19 - Check-out Vegas → Vol nuit LAS→Newark (UA406 23h55)
+DESCRIPTION:11h00 Check-out Tuscany Suites & Casino\nJournée libre (bagages en consigne à l'hôtel)\nDernières activités / dernier repas à Las Vegas\n21h30 Départ hôtel → Aéroport LAS\n22h00 Arrivée aéroport (2h avant)\n23h55 ✈️ Vol United UA406 LAS → EWR Newark\nConf. GQ1YRJ\nArrivée Newark 07h35 (27 juil.)
+CATEGORIES:Programme
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j19-vol-las-ewr-2026@usa-roadtrip
+DTSTART;TZID=America/Los_Angeles:20260726T235500
+DTEND;TZID=America/New_York:20260727T073500
+SUMMARY:✈️ Vol UA406 : LAS → EWR (4h40)
+DESCRIPTION:United Airlines UA406\nDépart: Las Vegas (LAS) 23h55\nArrivée: Newark (EWR) 07h35 (+1j)\nConf. GQ1YRJ
+LOCATION:Las Vegas McCarran International Airport (LAS)
+CATEGORIES:Vol
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j20-programme-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+SUMMARY:🗽 J20 - Arrivée New York — Times Square\, Central Park
+DESCRIPTION:07h35 Arrivée Newark Airport (EWR)\nTransfert Newark → Manhattan :\n→ Option 1 : AirTrain + NJ Transit (15$/pers\, 30-45 min) → Penn Station\n→ Option 2 : Uber/Lyft (60-100$\, 30-60 min)\n09h00-10h00 Check-in Hotel Belleclaire (2175 Broadway\, Upper West Side)\n10h00 Times Square (photos\, ambiance)\n11h00 Bryant Park + NYPL (42nd St)\n12h30 Déjeuner Midtown\n14h00-17h30 ⭐⭐⭐ Central Park : Bethesda Terrace\, Bow Bridge\, The Mall\n18h00 Fifth Avenue\, Rockefeller Center\n21h30 Times Square de nuit\n🏨 Hotel Belleclaire - conf. Expedia 72071372641988 (27→29 juil.)
+CATEGORIES:Programme
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j21-programme-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:🗽 J21 - NYC : Statue de la Liberté\, Brooklyn Bridge\, Baseball Mets
+DESCRIPTION:08h45 Battery Park → Ferry Statue de la Liberté ⚠️ RÉSERVATION OBLIGATOIRE (statuecruises.com)\n09h00-11h00 ⭐⭐⭐ Liberty Island (visite statue\, audio-guide)\n11h00-13h00 Ellis Island (musée immigration)\n13h30 Retour Battery Park\, déjeuner Financial District\n15h00 ⭐⭐⭐ Brooklyn Bridge - traversée à pied Manhattan → Brooklyn (30-45 min)\n16h00 ⭐⭐⭐ DUMBO : Washington St photo (Empire State encadré)\, Brooklyn Bridge Park\n19h00 ⭐⭐ Match baseball Mets vs Braves - Citi Field\, Queens (métro ligne 7)\n🏨 Hotel Belleclaire
+CATEGORIES:Programme
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j22-programme-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:🎨 J22 - NYC : Musées\, SoHo\, Greenwich Village — Check-out Belleclaire
+DESCRIPTION:10h00-13h30 ⭐⭐⭐ Musée au choix :\n→ MET (Metropolitan Museum\, 5th Ave) - collections universelles\n→ MoMA (Museum of Modern Art\, Midtown) - art contemporain\n13h30 Déjeuner\n15h00-18h00 ⭐⭐ SoHo (boutiques\, galeries d'art\, cast-iron buildings)\n18h00-19h30 Greenwich Village (Washington Square Park)\n20h00 Spectacle Broadway (optionnel)\n→ Hamilton\, The Lion King\, Wicked\, Chicago...\n→ Billets discount possible jour même\n🏨 Hotel Belleclaire — CHECK-OUT 29 juil.
+CATEGORIES:Programme
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j23-programme-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:✈️ J23 - Dernière journée NYC → Vol retour JFK 17h30 (AF003)
+DESCRIPTION:08h30 Brunch new-yorkais ⭐ (Clinton St Baking Co\, Russ & Daughters\, Balthazar...)\n10h00-11h30 ⭐⭐⭐ High Line (2\,3 km\, Chelsea - gratuit)\n11h30 Chelsea Market + Meatpacking District\n12h00 Récupération bagages\, check-out\n13h30 Départ → JFK (Uber 60-90$\, taxi fixe 70$\, ou AirTrain+métro ~11$)\n14h45 Arrivée JFK - check-in international (3h avant)\n15h30 Sécurité\n16h00-17h00 Zone embarquement (shopping\, détente)\n17h30 ✈️ Vol AF003 JFK → CDG Paris (7h50)\nEscale CDG 2h15 → AF7530 Hop! → Rennes 10h20 (31 juil.)\nConf. Expedia XKSL6B
+CATEGORIES:Programme
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j24-programme-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:🏠 J24 - Arrivée Rennes — Fin du voyage USA !
+DESCRIPTION:10h20 Arrivée RNS Rennes-Bretagne (vol AF7530 Hop!)\nFormalités douane UE (rapide)\nRécupération bagages\nRetour domicile\n🎉 Fin du road trip USA 2026 !\n24 jours - 5 parcs nationaux\nYosemite\, Death Valley\, Zion\, Bryce Canyon\, Grand Canyon\nSan Francisco\, Las Vegas\, New York City\n~2500 km en camping-car
+CATEGORIES:Programme
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j01-hyatt-sf-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260709
+SUMMARY:🏨 Hyatt Place SF Downtown
+DESCRIPTION:Hyatt Place San Francisco Downtown\n701 3rd St, San Francisco, CA 94107\nExpedia: 72070565315363\n2 grands lits, non-fumeurs\nCheck-in: 15h00 / Check-out: 11h00\n343,86€ payé (MasterCard 3968)
+LOCATION:701 3rd St, San Francisco, CA 94107
+CATEGORIES:Hébergement
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j02-halfmoonbay-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:🏕️ Half Moon Bay RV Park
+DESCRIPTION:Half Moon Bay RV Park\nHalf Moon Bay, CA\nConfirmation: reservation-camping-09-07-halfmoonbay.pdf\n1ère nuit en camping-car
+LOCATION:Half Moon Bay, CA
+CATEGORIES:Camping
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j03-highsierra-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:🏕️ High Sierra RV & Mobile Park - Oakhurst
+DESCRIPTION:High Sierra RV and Mobile Park\n40389 Hwy 41, Oakhurst, CA 93644\nConfirmation: 12297938\nDeluxe Pull-Thru, Full Hookups\nTél: (559) 683-7662
+LOCATION:40389 Hwy 41, Oakhurst, CA 93644
+CATEGORIES:Camping
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j04-sweetwater-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:🏕️ Sweetwater Campground - Stanislaus NF
+DESCRIPTION:Sweetwater Campground\nStanislaus National Forest, CA\nConfirmation: reservation-camping-11-07.pdf
+LOCATION:Stanislaus National Forest, CA
+CATEGORIES:Camping
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j05-ohridge-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:🏕️ Oh Ridge Campground - Bass Lake (site 141)
+DESCRIPTION:Oh Ridge Campground - Site Deer 141\nBass Lake, Sierra National Forest, CA\nConfirmation: reservation-camping-12-07.pdf
+LOCATION:Bass Lake, Sierra National Forest, CA
+CATEGORIES:Camping
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j06-ranchdv-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260714
+SUMMARY:🏕️ The Ranch at Death Valley - Furnace Creek
+DESCRIPTION:The Ranch at Death Valley\nFurnace Creek, Death Valley National Park, CA\nConfirmation: reservation-camping-13-07.pdf\nPiscine incluse (Fiddlers' Campground / Ranch)
+LOCATION:Furnace Creek, Death Valley National Park, CA
+CATEGORIES:Camping
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j07-atlatl-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:🏕️ Atlatl Rock Campground - Valley of Fire
+DESCRIPTION:Atlatl Rock Campground\nValley of Fire State Park, NV\nConfirmation: reservation-camping-14-07.pdf
+LOCATION:Valley of Fire State Park, NV
+CATEGORIES:Camping
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j08-zion-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260717
+SUMMARY:🏕️ Zion Canyon Campground - Springdale
+DESCRIPTION:Zion Canyon Campground\n479 Zion Park Blvd, Springdale, UT 84767\nConfirmation: reservation-camping-15.16-07.pdf\nConf. 36232388 - site E24\nTél: (435) 772-3237
+LOCATION:479 Zion Park Blvd, Springdale, UT 84767
+CATEGORIES:Camping
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j10-rubysinn-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:🏕️ Ruby's Inn RV Park - Bryce Canyon
+DESCRIPTION:Ruby's Inn RV Park & Campground\n300 South Main St, Bryce, UT 84764\nCode réservation: 7UJ47M\nEW 26 ft (site 093)\n2 adultes, 2 enfants\n$86.29 payé\nTél: (435) 834-5301 / rvpark@rubysinn.com\nPiscine chauffée + spa
+LOCATION:300 South Main St, Bryce, UT 84764
+CATEGORIES:Camping
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j11-roamhorseshoebend-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260720
+SUMMARY:🏕️ Roam Horseshoe Bend RV Resort - Page AZ (2 nuits)
+DESCRIPTION:Roam Horseshoe Bend RV Resort\n1099 Coppermine Road, Page, AZ 86040\nCampSpot: 172\nCheck-in: 18 juil. à 13h00\nCheck-out: 20 juil. avant 11h00\n$176.98 payé\nTél: 928.660.4035\nhorseshoebend@roamamerica.com
+LOCATION:1099 Coppermine Road, Page, AZ 86040
+CATEGORIES:Camping
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j13-monumentvalley-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+SUMMARY:🏕️ The View Campground - Monument Valley
+DESCRIPTION:The View Campground\nMonument Valley, UT/AZ\nConfirmation: reservation-camping-20-07.pdf
+LOCATION:Monument Valley, UT
+CATEGORIES:Camping
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j14-grandcanyon-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260724
+SUMMARY:🏕️ Trailer Village RV Park - Grand Canyon (3 nuits)
+DESCRIPTION:Trailer Village RV Park\n100 Market Plaza Rd, Grand Canyon Village, AZ\nRoom 1 (Conf. 63275SG332461): 21-23 juil., 2 nuits, $178.50+taxes\nRoom 2 (Conf. 63275SG332463): 23-24 juil., 1 nuit, $89.25+taxes\nItinéraire: 398B11834865\nTotal: $289.23\nCheck-in après 12h00 / Check-out avant 12h00\nTél: 877-404-4614
+LOCATION:100 Market Plaza Rd, Grand Canyon Village, AZ
+CATEGORIES:Camping
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j17-tuscany-lv-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260726
+SUMMARY:🏨 Tuscany Suites & Casino - Las Vegas (2 nuits)
+DESCRIPTION:Tuscany Suites & Casino\nLas Vegas, NV\nConfirmation Expedia: www.expedia.fr-egti-YNO-I58-9LZ3.pdf\nCheck-in: 24 juil. / Check-out: 26 juil.\nPiscine + spa
+LOCATION:Las Vegas, NV
+CATEGORIES:Hébergement
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j20-belleclaire-nyc-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260729
+SUMMARY:🏨 Hotel Belleclaire - New York (2 nuits)
+DESCRIPTION:Hotel Belleclaire\n2175 Broadway, Upper West Side, New York, NY\nConfirmation Expedia: www.expedia.fr-72071372641988.pdf\nCheck-in: 27 juil. / Check-out: 29 juil.\n2 nuits
+LOCATION:2175 Broadway, New York, NY
+CATEGORIES:Hébergement
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j22-vol-retour-2026@usa-roadtrip
+DTSTART;TZID=America/New_York:20260730T173000
+DTEND;TZID=America/New_York:20260730T173000
+SUMMARY:✈️ Vol retour JFK → Paris (AF003)
+DESCRIPTION:Air France 003\nDépart: 30 juil. à 17h30 (JFK)\nArrivée CDG: 31 juil. à 07h00\nEscale CDG 2h15 → AF7530 Hop! → Rennes 10h20\nConf. Expedia: XKSL6B\nCheck-out Belleclaire le matin — aller JFK l'après-midi
+LOCATION:JFK - John F. Kennedy International Airport, New York
+CATEGORIES:Vol
+STATUS:CONFIRMED
+END:VEVENT
+
+END:VCALENDAR

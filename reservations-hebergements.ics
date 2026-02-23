@@ -1,0 +1,174 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//USA Road Trip 2026//Hebergements//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:USA 2026 - Hébergements
+X-WR-TIMEZONE:America/Los_Angeles
+
+BEGIN:VEVENT
+UID:j01-hyatt-sf-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260709
+SUMMARY:🏨 Hyatt Place SF Downtown
+DESCRIPTION:Hyatt Place San Francisco Downtown\n701 3rd St, San Francisco, CA 94107\nExpedia: 72070565315363\n2 grands lits, non-fumeurs\nCheck-in: 15h00 / Check-out: 11h00\n343,86€ payé (MasterCard 3968)
+LOCATION:701 3rd St, San Francisco, CA 94107
+CATEGORIES:Hébergement
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j02-halfmoonbay-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:🏕️ Half Moon Bay RV Park
+DESCRIPTION:Half Moon Bay RV Park\nHalf Moon Bay, CA\nConfirmation: reservation-camping-09-07-halfmoonbay.pdf\n1ère nuit en camping-car
+LOCATION:Half Moon Bay, CA
+CATEGORIES:Camping
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j03-highsierra-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:🏕️ High Sierra RV & Mobile Park - Oakhurst
+DESCRIPTION:High Sierra RV and Mobile Park\n40389 Hwy 41, Oakhurst, CA 93644\nConfirmation: 12297938\nDeluxe Pull-Thru, Full Hookups\nTél: (559) 683-7662
+LOCATION:40389 Hwy 41, Oakhurst, CA 93644
+CATEGORIES:Camping
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j04-sweetwater-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:🏕️ Sweetwater Campground - Stanislaus NF
+DESCRIPTION:Sweetwater Campground\nStanislaus National Forest, CA\nConfirmation: reservation-camping-11-07.pdf
+LOCATION:Stanislaus National Forest, CA
+CATEGORIES:Camping
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j05-ohridge-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:🏕️ Oh Ridge Campground - Bass Lake (site 141)
+DESCRIPTION:Oh Ridge Campground - Site Deer 141\nBass Lake, Sierra National Forest, CA\nConfirmation: reservation-camping-12-07.pdf
+LOCATION:Bass Lake, Sierra National Forest, CA
+CATEGORIES:Camping
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j06-ranchdv-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260714
+SUMMARY:🏕️ The Ranch at Death Valley - Furnace Creek
+DESCRIPTION:The Ranch at Death Valley\nFurnace Creek, Death Valley National Park, CA\nConfirmation: reservation-camping-13-07.pdf\nPiscine incluse (Fiddlers' Campground)
+LOCATION:Furnace Creek, Death Valley National Park, CA
+CATEGORIES:Camping
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j07-atlatl-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:🏕️ Atlatl Rock Campground - Valley of Fire
+DESCRIPTION:Atlatl Rock Campground\nValley of Fire State Park, NV\nConfirmation: reservation-camping-14-07.pdf
+LOCATION:Valley of Fire State Park, NV
+CATEGORIES:Camping
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j08-zion-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260717
+SUMMARY:🏕️ Zion Canyon Campground - Springdale
+DESCRIPTION:Zion Canyon Campground\n479 Zion Park Blvd, Springdale, UT 84767\nConfirmation: reservation-camping-15.16-07.pdf\n⚠️ Vérifier les dates (anomalie détectée dans les docs)\nTél: (435) 772-3237
+LOCATION:479 Zion Park Blvd, Springdale, UT 84767
+CATEGORIES:Camping
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j10-rubysinn-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:🏕️ Ruby's Inn RV Park - Bryce Canyon
+DESCRIPTION:Ruby's Inn RV Park & Campground\n300 South Main St, Bryce, UT 84764\nCode réservation: 7UJ47M\nEW 26 ft (site 093)\n2 adultes, 2 enfants\n$86.29 payé\nTél: (435) 834-5301 / rvpark@rubysinn.com\nPiscine chauffée + spa
+LOCATION:300 South Main St, Bryce, UT 84764
+CATEGORIES:Camping
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j11-roamhorseshoebend-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260720
+SUMMARY:🏕️ Roam Horseshoe Bend RV Resort - Page AZ (2 nuits)
+DESCRIPTION:Roam Horseshoe Bend RV Resort\n1099 Coppermine Road, Page, AZ 86040\nCampSpot: 172\nCheck-in: 18 juil. à 13h00\nCheck-out: 20 juil. avant 11h00\n$176.98 payé\nTél: 928.660.4035\nhorseshoebend@roamamerica.com
+LOCATION:1099 Coppermine Road, Page, AZ 86040
+CATEGORIES:Camping
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j13-monumentvalley-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+SUMMARY:🏕️ The View Campground - Monument Valley
+DESCRIPTION:The View Campground\nMonument Valley, UT/AZ\nConfirmation: reservation-camping-20-07.pdf
+LOCATION:Monument Valley, UT
+CATEGORIES:Camping
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j14-grandcanyon-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260724
+SUMMARY:🏕️ Trailer Village RV Park - Grand Canyon (3 nuits)
+DESCRIPTION:Trailer Village RV Park\n100 Market Plaza Rd, Grand Canyon Village, AZ\nRoom 1 (Conf. 63275SG332461): 21-23 juil., 2 nuits, $178.50+taxes\nRoom 2 (Conf. 63275SG332463): 23-24 juil., 1 nuit, $89.25+taxes\nItinéraire: 398B11834865\nTotal: $289.23\nCheck-in après 12h00 / Check-out avant 12h00\nTél: 877-404-4614
+LOCATION:100 Market Plaza Rd, Grand Canyon Village, AZ
+CATEGORIES:Camping
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j17-tuscany-lv-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260726
+SUMMARY:🏨 Tuscany Suites & Casino - Las Vegas (2 nuits)
+DESCRIPTION:Tuscany Suites & Casino\nLas Vegas, NV\nConfirmation Expedia: www.expedia.fr-egti-YNO-I58-9LZ3.pdf\nCheck-in: 24 juil. / Check-out: 26 juil.\nPiscine + spa
+LOCATION:Las Vegas, NV
+CATEGORIES:Hébergement
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j20-belleclaire-nyc-2026@usa-roadtrip
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260729
+SUMMARY:🏨 Hotel Belleclaire - New York (2 nuits)
+DESCRIPTION:Hotel Belleclaire\n2175 Broadway, Upper West Side, New York, NY\nConfirmation Expedia: www.expedia.fr-72071372641988.pdf\nCheck-in: 27 juil. / Check-out: 29 juil.\n2 nuits
+LOCATION:2175 Broadway, New York, NY
+CATEGORIES:Hébergement
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:j22-vol-retour-2026@usa-roadtrip
+DTSTART;TZID=America/New_York:20260729T173000
+DTEND;TZID=America/New_York:20260729T173000
+SUMMARY:✈️ Vol retour JFK → Paris (AF003)
+DESCRIPTION:Air France 003\nDépart: 29 juil. à 17h30 (JFK)\nArrivée CDG: 30 juil. à 07h00\nEscale CDG 2h15 → AF7530 Hop! → Rennes 10h20\nConf. Expedia: XKSL6B\nCheck-out Belleclaire le matin — aller JFK l'après-midi
+LOCATION:JFK - John F. Kennedy International Airport, New York
+CATEGORIES:Vol
+STATUS:CONFIRMED
+END:VEVENT
+
+END:VCALENDAR

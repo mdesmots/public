@@ -7,21 +7,6 @@ X-WR-CALNAME:USA-2026
 X-WR-TIMEZONE:America/Los_Angeles
 
 BEGIN:VEVENT
-UID:alerte-assurance-2026@usa-roadtrip
-DTSTART;TZID=Europe/Paris:20260225T090000
-DTEND;TZID=Europe/Paris:20260225T093000
-SUMMARY:🔴⚠️ URGENT — Souscrire assurance voyage (4 personnes)
-DESCRIPTION:Souscrire l'assurance voyage avant le 28 février 2026 !\nHeymondo recommandé (formule Top : ~180-250€)\nhttps://www.heymondo.fr/\nCouvre : frais médicaux USA\, rapatriement\, annulation\nPour : Marc\, Catherine\, Camille\, Axel\nDates du voyage : 8 juillet → 31 juillet 2026
-CATEGORIES:Alerte,Préparation
-STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT0M
-ACTION:DISPLAY
-DESCRIPTION:🔴 Souscrire assurance voyage AUJOURD'HUI (délai : 28 fév.)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:alerte-baseball-mets-2026@usa-roadtrip
 DTSTART;TZID=Europe/Paris:20260315T090000
 DTEND;TZID=Europe/Paris:20260315T093000
@@ -510,21 +495,6 @@ DESCRIPTION:Air France 003\nDépart: 30 juil. à 17h30 (JFK)\nArrivée CDG: 31 j
 LOCATION:JFK - John F. Kennedy International Airport, New York
 CATEGORIES:Vol
 STATUS:CONFIRMED
-END:VEVENT
-
-BEGIN:VEVENT
-UID:permis-international-courrier-2026@usa-roadtrip
-DTSTART;VALUE=DATE:20260301
-DTEND;VALUE=DATE:20260302
-SUMMARY:📬 Envoyer courrier permis international (deadline 11/03)
-DESCRIPTION:Envoyer le dossier permis de conduire international à :\nCERT Permis de Conduire Internationaux\nCS 20001\n50653 CHERBOURG EN COTENTIN Cedex\n\nContenu : attestation de dépôt + photo d'identité + enveloppe retour (2 timbres + lettre suivie)\nN° de demande : 44220260224212449280307\n⚠️ Date limite absolue : 11 mars 2026
-CATEGORIES:Administratif
-STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT0S
-ACTION:DISPLAY
-DESCRIPTION:📬 Envoyer courrier permis international aujourd'hui !
-END:VALARM
 END:VEVENT
 
 END:VCALENDAR

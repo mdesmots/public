@@ -497,4 +497,394 @@ CATEGORIES:Vol
 STATUS:CONFIRMED
 END:VEVENT
 
+BEGIN:VEVENT
+UID:checkout-hyatt-sf-2026@usa-roadtrip
+DTSTART;TZID=America/Los_Angeles:20260709T110000
+DTEND;TZID=America/Los_Angeles:20260709T113000
+SUMMARY:🚗 Check-out au plus tard 11h — Hyatt Place SF
+DESCRIPTION:Check-out officiel Hyatt Place San Francisco Downtown\nQuitter la chambre avant 11h00\n701 3rd St, San Francisco, CA
+CATEGORIES:Logistique
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⏰ Check-out Hyatt Place dans 30 min (11h00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:checkin-halfmoonbay-2026@usa-roadtrip
+DTSTART;TZID=America/Los_Angeles:20260709T220000
+DTEND;TZID=America/Los_Angeles:20260709T223000
+SUMMARY:🏕️ Arrivée au plus tard 22h — Half Moon Bay RV Park
+DESCRIPTION:Arriver au Half Moon Bay RV Park avant 22h\n460 Wavecrest Rd, Half Moon Bay, CA\nAppeler si arrivée prévue après 22h
+CATEGORIES:Logistique
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:⏰ Arrivée Half Moon Bay RV dans 1h (22h00 max)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:checkout-halfmoonbay-2026@usa-roadtrip
+DTSTART;TZID=America/Los_Angeles:20260710T110000
+DTEND;TZID=America/Los_Angeles:20260710T113000
+SUMMARY:🚗 Check-out au plus tard 11h — Half Moon Bay RV Park
+DESCRIPTION:Quitter le Half Moon Bay RV Park avant 11h00\n460 Wavecrest Rd, Half Moon Bay, CA
+CATEGORIES:Logistique
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⏰ Check-out Half Moon Bay RV dans 30 min (11h00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:checkin-highsierra-2026@usa-roadtrip
+DTSTART;TZID=America/Los_Angeles:20260710T220000
+DTEND;TZID=America/Los_Angeles:20260710T223000
+SUMMARY:🏕️ Arrivée au plus tard 22h — High Sierra RV Park
+DESCRIPTION:Arriver au High Sierra RV and Mobile Park avant 22h\n40389 Hwy 41, Oakhurst, CA — Tél: (559) 683-7662\nAppeler si arrivée prévue après 22h
+CATEGORIES:Logistique
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:⏰ Arrivée High Sierra RV dans 1h (22h00 max)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:checkout-highsierra-2026@usa-roadtrip
+DTSTART;TZID=America/Los_Angeles:20260711T110000
+DTEND;TZID=America/Los_Angeles:20260711T113000
+SUMMARY:🚗 Check-out au plus tard 11h — High Sierra RV Park
+DESCRIPTION:Quitter le High Sierra RV Park avant 11h00 (confirmé réservation)\n40389 Hwy 41, Oakhurst, CA
+CATEGORIES:Logistique
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⏰ Check-out High Sierra RV dans 30 min (11h00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:checkin-sweetwater-2026@usa-roadtrip
+DTSTART;TZID=America/Los_Angeles:20260711T220000
+DTEND;TZID=America/Los_Angeles:20260711T223000
+SUMMARY:🏕️ Arrivée au plus tard 22h — Sweetwater Campground
+DESCRIPTION:Arriver au Sweetwater Campground (Stanislaus NF) avant 22h\nAppeler le ranger station si arrivée après 22h
+CATEGORIES:Logistique
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:⏰ Arrivée Sweetwater dans 1h (22h00 max)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:checkout-sweetwater-2026@usa-roadtrip
+DTSTART;TZID=America/Los_Angeles:20260712T120000
+DTEND;TZID=America/Los_Angeles:20260712T123000
+SUMMARY:🚗 Check-out au plus tard 12h — Sweetwater Campground
+DESCRIPTION:Quitter Sweetwater Campground avant 12h00 (Stanislaus National Forest)\nDépart tôt prévu (6h30) pour Yosemite
+CATEGORIES:Logistique
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⏰ Check-out Sweetwater dans 30 min (12h00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:checkin-ohridge-2026@usa-roadtrip
+DTSTART;TZID=America/Los_Angeles:20260712T220000
+DTEND;TZID=America/Los_Angeles:20260712T223000
+SUMMARY:🏕️ Arrivée au plus tard 22h — Oh Ridge Campground
+DESCRIPTION:Arriver à Oh Ridge Campground avant 22h\nBass Lake, Sierra National Forest, CA — Site Deer 141
+CATEGORIES:Logistique
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:⏰ Arrivée Oh Ridge dans 1h (22h00 max)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:checkout-ohridge-2026@usa-roadtrip
+DTSTART;TZID=America/Los_Angeles:20260713T120000
+DTEND;TZID=America/Los_Angeles:20260713T123000
+SUMMARY:🚗 Check-out au plus tard 12h — Oh Ridge Campground
+DESCRIPTION:Quitter Oh Ridge Campground avant 12h00 (Sierra National Forest)\nDépart tôt prévu (7h00) pour Death Valley via Father Crowley
+CATEGORIES:Logistique
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⏰ Check-out Oh Ridge dans 30 min (12h00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:checkin-ranchdv-2026@usa-roadtrip
+DTSTART;TZID=America/Los_Angeles:20260713T220000
+DTEND;TZID=America/Los_Angeles:20260713T223000
+SUMMARY:🏕️ Arrivée au plus tard 22h — The Ranch at Death Valley
+DESCRIPTION:Arriver au Ranch at Death Valley (Furnace Creek) avant 22h\nConfirmation: reservation-camping-13-07.pdf
+CATEGORIES:Logistique
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:⏰ Arrivée Ranch Death Valley dans 1h (22h00 max)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:checkout-ranchdv-2026@usa-roadtrip
+DTSTART;TZID=America/Los_Angeles:20260714T120000
+DTEND;TZID=America/Los_Angeles:20260714T123000
+SUMMARY:🚗 Check-out au plus tard 12h — The Ranch at Death Valley
+DESCRIPTION:Quitter Furnace Creek avant 12h00\nDépart très tôt prévu (5h30) pour Badwater au lever du soleil
+CATEGORIES:Logistique
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⏰ Check-out Ranch Death Valley dans 30 min (12h00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:checkin-atlatl-2026@usa-roadtrip
+DTSTART;TZID=America/Los_Angeles:20260714T220000
+DTEND;TZID=America/Los_Angeles:20260714T223000
+SUMMARY:🏕️ Arrivée au plus tard 22h — Atlatl Rock Campground
+DESCRIPTION:Arriver à Atlatl Rock Campground avant 22h\nValley of Fire State Park, NV — Site 35, EW\nConf. #1333431
+CATEGORIES:Logistique
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:⏰ Arrivée Atlatl Rock dans 1h (22h00 max)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:checkout-atlatl-2026@usa-roadtrip
+DTSTART;TZID=America/Los_Angeles:20260715T120000
+DTEND;TZID=America/Los_Angeles:20260715T123000
+SUMMARY:🚗 Check-out au plus tard 12h — Atlatl Rock Campground
+DESCRIPTION:Quitter Atlatl Rock Campground (Valley of Fire State Park) avant 12h00\nRoute vers Zion National Park (~270 km, 2h30)
+CATEGORIES:Logistique
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⏰ Check-out Atlatl Rock dans 30 min (12h00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:checkin-zion-2026@usa-roadtrip
+DTSTART;TZID=America/Denver:20260715T220000
+DTEND;TZID=America/Denver:20260715T223000
+SUMMARY:🏕️ Arrivée au plus tard 22h — Zion Canyon Campground
+DESCRIPTION:Arriver au Zion Canyon Campground avant 22h\n479 Zion Park Blvd, Springdale, UT — Site E24\nConf. 36232388 — Tél: (435) 772-3237
+CATEGORIES:Logistique
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:⏰ Arrivée Zion Canyon CG dans 1h (22h00 max)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:checkout-zion-2026@usa-roadtrip
+DTSTART;TZID=America/Denver:20260717T110000
+DTEND;TZID=America/Denver:20260717T113000
+SUMMARY:🚗 Check-out au plus tard 11h — Zion Canyon Campground
+DESCRIPTION:Quitter Zion Canyon Campground avant 11h00\n479 Zion Park Blvd, Springdale, UT — 2 nuits (J08+J09)\nRoute vers Bryce Canyon (140 km, 2h)
+CATEGORIES:Logistique
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⏰ Check-out Zion CG dans 30 min (11h00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:checkin-rubysinn-2026@usa-roadtrip
+DTSTART;TZID=America/Denver:20260717T220000
+DTEND;TZID=America/Denver:20260717T223000
+SUMMARY:🏕️ Arrivée au plus tard 22h — Ruby's Inn RV Park
+DESCRIPTION:Arriver au Ruby's Inn RV Park avant 22h\n300 South Main St, Bryce, UT — Site EW093 (code 7UJ47M)\nTél: (435) 834-5301
+CATEGORIES:Logistique
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:⏰ Arrivée Ruby's Inn dans 1h (22h00 max)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:checkout-rubysinn-2026@usa-roadtrip
+DTSTART;TZID=America/Denver:20260718T110000
+DTEND;TZID=America/Denver:20260718T113000
+SUMMARY:🚗 Check-out au plus tard 11h — Ruby's Inn RV Park
+DESCRIPTION:Quitter Ruby's Inn RV Park avant 11h00\n300 South Main St, Bryce, UT — Code résa: 7UJ47M\nRoute vers Page, AZ (240 km, 3h)
+CATEGORIES:Logistique
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⏰ Check-out Ruby's Inn dans 30 min (11h00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:checkin-roamhorseshoebend-2026@usa-roadtrip
+DTSTART;TZID=America/Phoenix:20260718T220000
+DTEND;TZID=America/Phoenix:20260718T223000
+SUMMARY:🏕️ Arrivée au plus tard 22h — Roam Horseshoe Bend RV Resort
+DESCRIPTION:Arriver au Roam Horseshoe Bend RV Resort avant 22h\n1099 Coppermine Road, Page, AZ — CampSpot 172\nCheck-in possible depuis 13h00\nTél: 928.660.4035
+CATEGORIES:Logistique
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:⏰ Arrivée Roam Horseshoe Bend dans 1h (22h00 max)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:checkout-roamhorseshoebend-2026@usa-roadtrip
+DTSTART;TZID=America/Phoenix:20260720T110000
+DTEND;TZID=America/Phoenix:20260720T113000
+SUMMARY:🚗 Check-out au plus tard 11h — Roam Horseshoe Bend RV Resort
+DESCRIPTION:Quitter Roam Horseshoe Bend avant 11h00 (confirmé réservation)\n1099 Coppermine Road, Page, AZ — 2 nuits (18+19 juil.)\nRoute vers Monument Valley (200 km, 2h)
+CATEGORIES:Logistique
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⏰ Check-out Roam Horseshoe Bend dans 30 min (11h00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:checkin-monumentvalley-2026@usa-roadtrip
+DTSTART;TZID=America/Denver:20260720T220000
+DTEND;TZID=America/Denver:20260720T223000
+SUMMARY:🏕️ Arrivée au plus tard 22h — The View Campground
+DESCRIPTION:Arriver au View Campground avant 22h\nMonument Valley, AZ/UT — Sunset RV Site\nConf. TVCUT05142527
+CATEGORIES:Logistique
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:⏰ Arrivée The View Monument Valley dans 1h (22h00 max)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:checkout-monumentvalley-2026@usa-roadtrip
+DTSTART;TZID=America/Denver:20260721T110000
+DTEND;TZID=America/Denver:20260721T113000
+SUMMARY:🚗 Check-out au plus tard 11h — The View Campground
+DESCRIPTION:Quitter The View Campground (Monument Valley) avant 11h00\nConf. TVCUT05142527\nAssister au lever de soleil avant le départ
+CATEGORIES:Logistique
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⏰ Check-out Monument Valley dans 30 min (11h00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:checkin-grandcanyon-2026@usa-roadtrip
+DTSTART;TZID=America/Phoenix:20260721T220000
+DTEND;TZID=America/Phoenix:20260721T223000
+SUMMARY:🏕️ Arrivée au plus tard 22h — Trailer Village RV Park
+DESCRIPTION:Arriver au Trailer Village avant 22h\n100 Market Plaza Rd, Grand Canyon Village, AZ\nCheck-in officiel après 12h00\nConf. #63275SG332461
+CATEGORIES:Logistique
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:⏰ Arrivée Trailer Village Grand Canyon dans 1h (22h00 max)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:checkout-grandcanyon-2026@usa-roadtrip
+DTSTART;TZID=America/Phoenix:20260724T120000
+DTEND;TZID=America/Phoenix:20260724T123000
+SUMMARY:🚗 Check-out au plus tard 12h — Trailer Village RV Park
+DESCRIPTION:Quitter Trailer Village avant 12h00 (confirmé réservation)\n100 Market Plaza Rd, Grand Canyon Village, AZ — 3 nuits\n⚠️ Restitution camping-car Roadsurfer Las Vegas à 17h00 !
+CATEGORIES:Logistique
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⏰ Check-out Grand Canyon dans 30 min (12h00) — restitution camping-car à 17h !
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:restitution-roadsurfer-2026@usa-roadtrip
+DTSTART;TZID=America/Los_Angeles:20260724T170000
+DTEND;TZID=America/Los_Angeles:20260724T173000
+SUMMARY:🚐 Restitution camping-car Roadsurfer — 17h00 au plus tard
+DESCRIPTION:Restituer le camping-car Roadsurfer AVANT 17h00\nRéservation: 3007429429\n⚠️ Arriver avec le plein fait\nFaire le ménage si demandé\nVérifier tous les effets personnels
+CATEGORIES:Logistique
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:⏰ Restitution Roadsurfer dans 1h (17h00 max) — faire le plein !
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:checkout-tuscany-lv-2026@usa-roadtrip
+DTSTART;TZID=America/Los_Angeles:20260726T110000
+DTEND;TZID=America/Los_Angeles:20260726T113000
+SUMMARY:🚗 Check-out au plus tard 11h — Tuscany Suites & Casino
+DESCRIPTION:Quitter Tuscany Suites & Casino avant 11h00\n255 E Flamingo Rd, Las Vegas — Conf. L72DAF0MDU\nVol LAS→EWR le soir (23h55)
+CATEGORIES:Logistique
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⏰ Check-out Tuscany LV dans 30 min (11h00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:checkout-belleclaire-nyc-2026@usa-roadtrip
+DTSTART;TZID=America/New_York:20260729T120000
+DTEND;TZID=America/New_York:20260729T123000
+SUMMARY:🚗 Check-out au plus tard 12h — Hotel Belleclaire NYC
+DESCRIPTION:Quitter Hotel Belleclaire avant 12h00\n2175 Broadway, Upper West Side, New York\nConf. Expedia 72071372641988\nLaisser les bagages en consigne à l'hôtel si besoin
+CATEGORIES:Logistique
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⏰ Check-out Belleclaire dans 30 min (12h00)
+END:VALARM
+END:VEVENT
+
 END:VCALENDAR

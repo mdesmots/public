@@ -498,6 +498,21 @@ STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
+UID:checkin-hyatt-sf-2026@usa-roadtrip
+DTSTART;TZID=America/Los_Angeles:20260708T150000
+DTEND;TZID=America/Los_Angeles:20260708T153000
+SUMMARY:🏨 Arrivée 8 juil. depuis 15h — Hyatt Place SF Downtown
+DESCRIPTION:Check-in Hyatt Place San Francisco Downtown à partir de 15h\n701 3rd St\, San Francisco\, CA 94107\nConf. Expedia 72070565315363
+CATEGORIES:Logistique
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:⏰ Check-in Hyatt Place SF dans 1h (à partir de 15h00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:checkout-hyatt-sf-2026@usa-roadtrip
 DTSTART;TZID=America/Los_Angeles:20260709T110000
 DTEND;TZID=America/Los_Angeles:20260709T113000
@@ -858,6 +873,21 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:checkin-tuscany-lv-2026@usa-roadtrip
+DTSTART;TZID=America/Los_Angeles:20260724T150000
+DTEND;TZID=America/Los_Angeles:20260724T153000
+SUMMARY:🏨 Arrivée 24 juil. depuis 15h — Tuscany Suites & Casino
+DESCRIPTION:Check-in Tuscany Suites & Casino à partir de 15h\n255 E Flamingo Rd\, Las Vegas\nConf. L72DAF0MDU — Expedia 72071183731102
+CATEGORIES:Logistique
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:⏰ Check-in Tuscany LV dans 1h (à partir de 15h00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:checkout-tuscany-lv-2026@usa-roadtrip
 DTSTART;TZID=America/Los_Angeles:20260726T110000
 DTEND;TZID=America/Los_Angeles:20260726T113000
@@ -869,6 +899,21 @@ BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
 DESCRIPTION:⏰ Check-out Tuscany LV dans 30 min (11h00)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:checkin-belleclaire-nyc-2026@usa-roadtrip
+DTSTART;TZID=America/New_York:20260727T150000
+DTEND;TZID=America/New_York:20260727T153000
+SUMMARY:🏨 Arrivée 27 juil. depuis 15h — Hotel Belleclaire NYC
+DESCRIPTION:Check-in Hotel Belleclaire à partir de 15h\n2175 Broadway\, Upper West Side\, New York\nConf. Expedia 72071372641988
+CATEGORIES:Logistique
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:⏰ Check-in Belleclaire NYC dans 1h (à partir de 15h00)
 END:VALARM
 END:VEVENT
 

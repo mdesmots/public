@@ -932,4 +932,19 @@ DESCRIPTION:⏰ Check-out Belleclaire dans 30 min (12h00)
 END:VALARM
 END:VEVENT
 
+BEGIN:VEVENT
+UID:alerte-cartes-offline-2026@usa-roadtrip
+DTSTART;TZID=Europe/Paris:20260701T090000
+DTEND;TZID=Europe/Paris:20260701T093000
+SUMMARY:📱 Télécharger cartes hors ligne + préparer mode offline
+DESCRIPTION:Nombreuses zones blanches pendant le road trip (Yosemite\, Death Valley\, Zion\, Bryce\, Monument Valley\, Grand Canyon).\n\nÀ faire :\n1. Google Maps : télécharger cartes offline Californie centrale\, Nevada\, Utah\, Arizona\n2. App NPS : télécharger les cartes des parcs\n3. Sauvegarder confirmations réservations en PDF\n4. Installer le site roadbook en PWA (mode offline)\n5. Pré-charger itinéraires GPS camping-car\n6. Noter numéros urgence sur papier\n\nDétails : docs/preparation/couverture-reseau.md
+CATEGORIES:Alerte,Préparation
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:📱 Télécharger cartes offline et préparer mode hors-ligne (zones blanches parcs)
+END:VALARM
+END:VEVENT
+
 END:VCALENDAR

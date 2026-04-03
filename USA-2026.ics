@@ -962,4 +962,64 @@ DESCRIPTION:🟡 Vérifier disponibilité billets Mets vs Braves (28 juil.)
 END:VALARM
 END:VEVENT
 
+BEGIN:VEVENT
+UID:loterie-angels-landing-resultat-2026@usa-roadtrip
+DTSTART;TZID=Europe/Paris:20260425T090000
+DTEND;TZID=Europe/Paris:20260425T093000
+SUMMARY:🔴 Résultats loterie Angels Landing — Vérifier Recreation.gov
+DESCRIPTION:Résultats de la loterie saisonnière été Angels Landing.\n\nCommande #0881806082\nPréférence : Start before 9AM — 15-16 juillet 2026\n\nVérifier sur https://www.recreation.gov/\nSi sélectionné : 3$/pers (4 pers = 12$) débité automatiquement.\nSi non sélectionné : tenter la loterie day-before le 14 ou 15 juillet.
+CATEGORIES:Alerte,Préparation
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:🔴 Vérifier résultats loterie Angels Landing sur Recreation.gov
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:topoftherock-2026@usa-roadtrip
+DTSTART;TZID=America/New_York:20260727T175000
+DTEND;TZID=America/New_York:20260727T203000
+SUMMARY:🏙️ Top of the Rock — Coucher de soleil
+DESCRIPTION:Top of the Rock Observation Deck\nConf. 3VBTYRP2\nEntrée : 50 W 50th St (entre 5th et 6th Ave)\nNe pas faire la queue avant l'heure indiquée.\nCoucher de soleil ~20h15 — rester en haut pour en profiter !
+CATEGORIES:Activité,New York
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:🏙️ Top of the Rock dans 1h — Entrée 17h50
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:hotel-lasvegas-2026@usa-roadtrip
+DTSTART;TZID=America/Los_Angeles:20260724T150000
+DTEND;TZID=America/Los_Angeles:20260726T110000
+SUMMARY:🏨 Tuscany Suites & Casino — Las Vegas (2 nuits)
+DESCRIPTION:Conf. L72DAF0MDU · Expedia 72071183731102\n255 E Flamingo Rd\, Las Vegas\, NV 89169\nSiena Double Suite — 2 adultes\, 2 enfants\nCheck-in : 15h · Check-out : 11h\nTotal : 331\,61 € (245\,64 € payé + 85\,97 € sur place)\nAnnulation gratuite jusqu'au 21 juil. 2026 à 22h
+CATEGORIES:Hébergement
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:hotel-newyork-2026@usa-roadtrip
+DTSTART;TZID=America/New_York:20260727T150000
+DTEND;TZID=America/New_York:20260729T120000
+SUMMARY:🏨 Hotel Belleclaire — New York (2 nuits)
+DESCRIPTION:Expedia 72071372641988\n2175 Broadway\, New York\, NY 10024 (Upper West Side)\nChambre Deluxe\, 2 grands lits\nCheck-in : 15h · Check-out : 12h\nTotal : 751\,81 € (695\,33 € payé + 56\,48 € sur place)
+CATEGORIES:Hébergement
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:loterie-angels-landing-soumise-2026@usa-roadtrip
+DTSTART;TZID=Europe/Paris:20260401T160000
+DTEND;TZID=Europe/Paris:20260401T163000
+SUMMARY:✅ Loterie Angels Landing — Candidature soumise
+DESCRIPTION:Candidature loterie Summer soumise le 1er avril 2026\nCommande #0881806082\nPréférence : Start before 9AM — 15-16 juillet 2026\nFrais : 6$ (Mastercard ***3968)\nRésultats le 25 avril 2026
+CATEGORIES:Alerte,Préparation
+STATUS:CONFIRMED
+END:VEVENT
+
 END:VCALENDAR

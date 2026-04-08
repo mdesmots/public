@@ -7,21 +7,6 @@ X-WR-CALNAME:USA-2026
 X-WR-TIMEZONE:America/Los_Angeles
 
 BEGIN:VEVENT
-UID:alerte-baseball-mets-2026@usa-roadtrip
-DTSTART;TZID=Europe/Paris:20260315T090000
-DTEND;TZID=Europe/Paris:20260315T093000
-SUMMARY:🟡 Acheter billets Baseball — Mets vs Braves (28 juil.)
-DESCRIPTION:Surveiller l'ouverture des billets pour le match du 28 juillet 2026\nNew York Mets vs Atlanta Braves — Citi Field\, Queens\nAccès : Métro ligne 7\nhttps://www.mlb.com/mets/tickets/single-game-tickets\nPrévoir ~30-80$/place selon catégorie
-CATEGORIES:Alerte,Préparation
-STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT0M
-ACTION:DISPLAY
-DESCRIPTION:🟡 Vérifier disponibilité billets Mets vs Braves (28 juil.)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:alerte-angels-landing-2026@usa-roadtrip
 DTSTART;TZID=Europe/Paris:20260315T100000
 DTEND;TZID=Europe/Paris:20260315T103000
@@ -48,21 +33,6 @@ BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
 DESCRIPTION:🔴 Réserver Alcatraz MAINTENANT sur alcatrazcruises.com
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:alerte-antelope-canyon-2026@usa-roadtrip
-DTSTART;TZID=Europe/Paris:20260415T090000
-DTEND;TZID=Europe/Paris:20260415T093000
-SUMMARY:🔴 Réserver Antelope Canyon — 19 juillet (visite guidée)
-DESCRIPTION:Réserver la visite guidée Antelope Canyon (20 juil. 2026)\nVisite guidée Navajo obligatoire — pas d'accès libre\nUpper Antelope Canyon : https://www.antelopecanyon.com/\nLower Antelope Canyon : https://www.antelopelowercanyon.com/\nMeilleure lumière : 10h-13h (Upper)\nPrix : ~50-100$/personne\n⚠️ Complet 2-3 mois à l'avance en haute saison !
-CATEGORIES:Alerte,Préparation
-STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT0M
-ACTION:DISPLAY
-DESCRIPTION:🔴 Réserver Antelope Canyon sur antelopecanyon.com
 END:VALARM
 END:VEVENT
 
@@ -944,21 +914,6 @@ BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
 DESCRIPTION:📱 Télécharger cartes offline et préparer mode hors-ligne (zones blanches parcs)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:alerte-baseball-mets-avril-2026@usa-roadtrip
-DTSTART;TZID=Europe/Paris:20260408T090000
-DTEND;TZID=Europe/Paris:20260408T093000
-SUMMARY:🟡 Vérifier billetterie Baseball — Mets vs Braves (28 juil.)
-DESCRIPTION:Vérifier si la billetterie pour le match du 28 juillet 2026 est ouverte\nNew York Mets vs Atlanta Braves — Citi Field\, Queens\nhttps://www.mlb.com/mets/tickets/single-game-tickets\nPrévoir ~30-80$/place selon catégorie
-CATEGORIES:Alerte,Préparation
-STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT0M
-ACTION:DISPLAY
-DESCRIPTION:🟡 Vérifier disponibilité billets Mets vs Braves (28 juil.)
 END:VALARM
 END:VEVENT
 

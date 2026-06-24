@@ -37,21 +37,6 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:alerte-statue-liberte-2026@usa-roadtrip
-DTSTART;TZID=Europe/Paris:20260501T090000
-DTEND;TZID=Europe/Paris:20260501T093000
-SUMMARY:🟡 Réserver Statue de la Liberté — 28 juillet
-DESCRIPTION:Réserver le ferry pour la Statue de la Liberté (28 juil. 2026)\nhttps://www.statuecruises.com/\nPremier ferry : 9h00 — arriver 30 min avant\nInclut : Liberty Island + Ellis Island\nPrix : ~25-30$/adulte\nPour 4 personnes : Marc\, Catherine\, Camille\, Axel
-CATEGORIES:Alerte,Préparation
-STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT0M
-ACTION:DISPLAY
-DESCRIPTION:🟡 Réserver Statue de la Liberté sur statuecruises.com
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:j01-programme-2026@usa-roadtrip
 DTSTART;VALUE=DATE:20260708
 DTEND;VALUE=DATE:20260709
@@ -256,8 +241,8 @@ BEGIN:VEVENT
 UID:j20-programme-2026@usa-roadtrip
 DTSTART;VALUE=DATE:20260727
 DTEND;VALUE=DATE:20260728
-SUMMARY:🗽 J20 - Arrivée New York — Times Square\, Central Park
-DESCRIPTION:07h35 Arrivée Newark Airport (EWR)\nTransfert Newark → Manhattan :\n→ Option 1 : AirTrain + NJ Transit (15$/pers\, 30-45 min) → Penn Station\n→ Option 2 : Uber/Lyft (60-100$\, 30-60 min)\n09h00-10h00 Check-in Hotel Belleclaire (2175 Broadway\, Upper West Side)\n10h00 Times Square (photos\, ambiance)\n11h00 Bryant Park + NYPL (42nd St)\n12h30 Déjeuner Midtown\n14h00-17h30 ⭐⭐⭐ Central Park : Bethesda Terrace\, Bow Bridge\, The Mall\n18h00 Fifth Avenue\, Rockefeller Center\n21h30 Times Square de nuit\n🏨 Hotel Belleclaire - conf. Expedia 72071372641988 (27→29 juil.)
+SUMMARY:🗽 J20 - Arrivée NYC — Central Park & Top of the Rock
+DESCRIPTION:07h35 Arrivée Newark (EWR) - vol de nuit UA406\nTransfert → Hotel Belleclaire (2175 Broadway\, Upper West Side)\n09h30 Dépose bagages (check-in dès 15h)\n10h-13h ⭐⭐⭐ Central Park : Bethesda Terrace\, Bow Bridge\, Strawberry Fields (à 2 min de l'hôtel)\n13h-14h30 Déjeuner Upper West Side / Columbus Circle\n14h30-16h45 Repos hôtel (jour d'arrivée) OU option High Line + Chelsea Market si en forme\n17h50 ⭐⭐⭐ TOP OF THE ROCK - coucher de soleil (RÉSERVÉ\, conf. 3VBTYRP2)\n20h30 Times Square de nuit + dîner Midtown\n🏨 Hotel Belleclaire - conf. Expedia 72071372641988 (27→29 juil.)
 CATEGORIES:Programme
 STATUS:CONFIRMED
 END:VEVENT
@@ -266,8 +251,8 @@ BEGIN:VEVENT
 UID:j21-programme-2026@usa-roadtrip
 DTSTART;VALUE=DATE:20260728
 DTEND;VALUE=DATE:20260729
-SUMMARY:🗽 J21 - NYC : Statue de la Liberté\, Brooklyn Bridge\, Baseball Mets
-DESCRIPTION:08h45 Battery Park → Ferry Statue de la Liberté ⚠️ RÉSERVATION OBLIGATOIRE (statuecruises.com)\n09h00-11h00 ⭐⭐⭐ Liberty Island (visite statue\, audio-guide)\n11h00-13h00 Ellis Island (musée immigration)\n13h30 Retour Battery Park\, déjeuner Financial District\n15h00 ⭐⭐⭐ Brooklyn Bridge - traversée à pied Manhattan → Brooklyn (30-45 min)\n16h00 ⭐⭐⭐ DUMBO : Washington St photo (Empire State encadré)\, Brooklyn Bridge Park\n19h00 ⭐⭐ Match baseball Mets vs Braves - Citi Field\, Queens (métro ligne 7)\n🏨 Hotel Belleclaire
+SUMMARY:🗽 J21 - NYC : Staten Island Ferry\, Wall St\, Brooklyn Bridge\, Baseball Mets
+DESCRIPTION:09h ⭐⭐⭐ Staten Island Ferry (GRATUIT) - vue Statue de la Liberté depuis le ferry (sans débarquer\, pas de réservation)\n10h Wall Street : Charging Bull\, NYSE\, Trinity Church\, Stone Street\n11h-12h 9/11 Memorial & The Oculus\n12h-16h ⭐⭐⭐ Brooklyn Bridge (traversée à pied) + DUMBO (Washington St\, Brooklyn Bridge Park)\nFin d'aprem : direct vers le Queens - Unisphere (Flushing Meadows) + dîner Flushing Chinatown\n19h-22h ⚾ BASEBALL Mets vs Braves - Citi Field (BILLETS RÉSERVÉS - StubHub 640084143\, Section 515 rangée 1\, 4 places)\nMétro ligne 7 → Mets-Willets Point\n🏨 Hotel Belleclaire
 CATEGORIES:Programme
 STATUS:CONFIRMED
 END:VEVENT
@@ -276,8 +261,8 @@ BEGIN:VEVENT
 UID:j22-programme-2026@usa-roadtrip
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20260730
-SUMMARY:🎨 J22 - NYC : Musées\, SoHo\, Greenwich Village — Check-out Belleclaire
-DESCRIPTION:10h00-13h30 ⭐⭐⭐ Musée au choix :\n→ MET (Metropolitan Museum\, 5th Ave) - collections universelles\n→ MoMA (Museum of Modern Art\, Midtown) - art contemporain\n13h30 Déjeuner\n15h00-18h00 ⭐⭐ SoHo (boutiques\, galeries d'art\, cast-iron buildings)\n18h00-19h30 Greenwich Village (Washington Square Park)\n20h00 Spectacle Broadway (optionnel)\n→ Hamilton\, The Lion King\, Wicked\, Chicago...\n→ Billets discount possible jour même\n🏨 Hotel Belleclaire — CHECK-OUT 29 juil.
+SUMMARY:🛍️ J22 - NYC : Brunch\, SoHo\, Greenwich Village → Vol retour JFK 17h30
+DESCRIPTION:08h Check-out Hotel Belleclaire (bagages en consigne)\n08h30-10h Brunch new-yorkais (Balthazar\, Russ & Daughters\, Clinton St Baking...)\n10h-11h30 SoHo (cast-iron buildings\, boutiques\, derniers souvenirs)\n11h30-12h45 Greenwich Village (Washington Square Park\, Bleecker St)\n~13h Récupération bagages\n14h Départ → JFK (métro A + AirTrain ~11$/pers ou Uber 55-75$)\n17h30 ✈️ Vol retour AF003 JFK → CDG (conf. Expedia XKSL6B)\n⚠️ Variante West Side possible : High Line + Chelsea Market + Little Island\n🏨 Hotel Belleclaire — CHECK-OUT 29 juil.
 CATEGORIES:Programme
 STATUS:CONFIRMED
 END:VEVENT
@@ -286,18 +271,8 @@ BEGIN:VEVENT
 UID:j23-programme-2026@usa-roadtrip
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
-SUMMARY:✈️ J23 - Dernière journée NYC → Vol retour JFK 17h30 (AF003)
-DESCRIPTION:08h30 Brunch new-yorkais ⭐ (Clinton St Baking Co\, Russ & Daughters\, Balthazar...)\n10h00-11h30 ⭐⭐⭐ High Line (2\,3 km\, Chelsea - gratuit)\n11h30 Chelsea Market + Meatpacking District\n12h00 Récupération bagages\, check-out\n13h30 Départ → JFK (Uber 60-90$\, taxi fixe 70$\, ou AirTrain+métro ~11$)\n14h45 Arrivée JFK - check-in international (3h avant)\n15h30 Sécurité\n16h00-17h00 Zone embarquement (shopping\, détente)\n17h30 ✈️ Vol AF003 JFK → CDG Paris (7h50)\nEscale CDG 2h15 → AF7530 Hop! → Rennes 10h20 (31 juil.)\nConf. Expedia XKSL6B
-CATEGORIES:Programme
-STATUS:CONFIRMED
-END:VEVENT
-
-BEGIN:VEVENT
-UID:j24-programme-2026@usa-roadtrip
-DTSTART;VALUE=DATE:20260731
-DTEND;VALUE=DATE:20260801
-SUMMARY:🏠 J24 - Arrivée Rennes — Fin du voyage USA !
-DESCRIPTION:10h20 Arrivée RNS Rennes-Bretagne (vol AF7530 Hop!)\nFormalités douane UE (rapide)\nRécupération bagages\nRetour domicile\n🎉 Fin du road trip USA 2026 !\n24 jours - 5 parcs nationaux\nYosemite\, Death Valley\, Zion\, Bryce Canyon\, Grand Canyon\nSan Francisco\, Las Vegas\, New York City\n~2500 km en camping-car
+SUMMARY:🏠 J23 - Arrivée à Rennes — Fin du voyage USA !
+DESCRIPTION:Vol de nuit JFK → CDG (parti 29 juil. 17h30)\n07h00 Arrivée Paris CDG\nEscale puis AF7530 CDG → Rennes\n10h20 Arrivée Rennes (RNS-Saint-Jacques)\nFormalités douane UE\, récupération bagages\, retour domicile\n🎉 Fin du road trip USA 2026 ! 23 jours - 5 parcs nationaux (Yosemite\, Death Valley\, Zion\, Bryce Canyon\, Grand Canyon) + San Francisco\, Las Vegas\, New York\, ~2500 km en camping-car\nConf. Expedia XKSL6B
 CATEGORIES:Programme
 STATUS:CONFIRMED
 END:VEVENT
@@ -458,10 +433,10 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:j22-vol-retour-2026@usa-roadtrip
-DTSTART;TZID=America/New_York:20260730T173000
-DTEND;TZID=America/New_York:20260730T173000
+DTSTART;TZID=America/New_York:20260729T173000
+DTEND;TZID=America/New_York:20260729T200000
 SUMMARY:✈️ Vol retour JFK → Paris (AF003)
-DESCRIPTION:Air France 003\nDépart: 30 juil. à 17h30 (JFK)\nArrivée CDG: 31 juil. à 07h00\nEscale CDG 2h15 → AF7530 Hop! → Rennes 10h20\nConf. Expedia: XKSL6B\nCheck-out Belleclaire le matin — aller JFK l'après-midi
+DESCRIPTION:Air France 003\nDépart: 29 juil. à 17h30 (JFK)\nArrivée CDG: 30 juil. à 07h00\nEscale CDG → AF7530 → Rennes 10h20 (30 juil.)\nConf. Expedia: XKSL6B\nCheck-out Belleclaire le matin — aller JFK l'après-midi
 LOCATION:JFK - John F. Kennedy International Airport, New York
 CATEGORIES:Vol
 STATUS:CONFIRMED

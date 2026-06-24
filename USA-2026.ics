@@ -190,8 +190,8 @@ BEGIN:VEVENT
 UID:j16-programme-2026@usa-roadtrip
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
-SUMMARY:🎰 J16 - Grand Canyon → Las Vegas
-DESCRIPTION:Dernier lever de soleil au Grand Canyon\nRoute → Las Vegas (~380 km\, 4h30)\n12h00-13h30 Pause déjeuner ⭐ Mr D'z Route 66 Diner (105 E Andy Devine Ave\, Kingman AZ)\n→ Diner vintage\, burgers\, milk-shakes\, ambiance Route 66\n14h00 Check-in Tuscany Suites & Casino\n15h00 Découverte Las Vegas Strip\n→ Bellagio (fontaines ⭐⭐⭐)\, Venetian\, Caesar's Palace\, Luxor\n→ Fremont Street Experience (Downtown)\n🏕️ Trailer Village RV Park (3e nuit 23→24 juil. - conf. 63275SG332463)\n🏨 Tuscany Suites & Casino dès le 24 juil.
+SUMMARY:🏞️ J16 - Grand Canyon (3e journée - South Rim)
+DESCRIPTION:Dernière journée complète au Grand Canyon (vous restez au parc - route vers Vegas demain).\n6h-7h30 Lever de soleil (Mather/Yaki/Hopi Point)\n9h-12h Rim Trail & Hermit Road (navette rouge : Hopi\, Mohave\, Pima Point)\n12h-14h Déjeuner au village (Market Plaza) ou pique-nique\n14h-17h Dernière rando courte (Ooh Aah Point) ou détente au bord du canyon\n19h-20h Dernier coucher de soleil\n⚠️ Préparer la restitution du camping-car demain (vidange des eaux\, plein\, affaires)\n🏕️ Trailer Village RV Park (3e et dernière nuit 23→24 juil. - conf. 63275SG332463)
 CATEGORIES:Programme
 STATUS:CONFIRMED
 END:VEVENT
@@ -200,8 +200,8 @@ BEGIN:VEVENT
 UID:j17-programme-2026@usa-roadtrip
 DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20260725
-SUMMARY:🎰 J17 - Las Vegas + Restitution camping-car (17h)
-DESCRIPTION:Matinée relaxante - piscine\, spa Tuscany\n⚠️ 17h00 RESTITUTION CAMPING-CAR ROADSURFER (Las Vegas)\nExploration Las Vegas Strip :\n→ Bellagio (fontaines toutes les 15-30 min)\n→ Venetian & Palazzo (canaux)\n→ Caesar's Palace (Forum Shops)\n→ Luxor (pyramide)\, Paris (Tour Eiffel)\, NY-NY\nDowntown - Fremont Street Experience (voûte LED)\nSoirée spectacle optionnel (Cirque du Soleil O\, KÀ\, Mystère...)\n💡 Monorail 12$/jour ou Uber/Lyft\n🏨 Tuscany Suites & Casino (1re nuit 24→25)
+SUMMARY:🔁 J17 - Grand Canyon → Las Vegas + Restitution camping-car (17h)
+DESCRIPTION:~9h Départ Grand Canyon (check-out Trailer Village avant 12h) - objectif Tuscany 15h\nRoute → Las Vegas (~380 km\, ~4h30)\n12h-13h30 Déjeuner ⭐ Mr D'z Route 66 Diner (Kingman AZ)\n15h00 Check-in Tuscany Suites & Casino (255 E Flamingo Rd) - Catherine et les enfants s'installent (piscine/spa)\n17h00 ⚠️ RESTITUTION CAMPING-CAR ROADSURFER - Marc\, seul (réf. 3007429429) : état des lieux\, reçu\, retour Uber\n18h-22h Première soirée sur le Strip : Bellagio (fontaines)\, Venetian\, Caesars\, Luxor - option spectacle\n🏨 Tuscany Suites & Casino (1re nuit 24→25)
 CATEGORIES:Programme
 STATUS:CONFIRMED
 END:VEVENT

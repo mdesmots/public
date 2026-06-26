@@ -41,9 +41,25 @@ UID:j01-programme-2026@usa-roadtrip
 DTSTART;VALUE=DATE:20260708
 DTEND;VALUE=DATE:20260709
 SUMMARY:✈️ J01 - Rennes → San Francisco
-DESCRIPTION:08h30 Départ aéroport Rennes (RNS)\n11h05 Vol AF7531 RNS→CDG (arr. 12h20)\n15h45 Vol AF82 CDG→SFO (11h30 de vol)\n18h00 Arrivée SFO - formalités ESTA\n19h30 Transfert SFO → hôtel (BART ou Uber)\n20h30 Check-in Hyatt Place SF Downtown (701 3rd St)\n21h30 Dîner léger\n🏨 Hyatt Place - 343€86 payé (conf. Expedia 72070565315363)
+DESCRIPTION:08h15 Départ domicile (8 rue Hector Berlioz) → bus C6 à Cité Judiciaire → Aéroport RNS\n08h45 Arrivée aéroport Rennes (RNS) — enregistrement bagages jusqu'à SFO\n11h05 Vol AF7531 RNS→CDG (arr. 12h20)\n15h45 Vol AF82 CDG→SFO (11h30 de vol)\n18h00 Arrivée SFO - formalités ESTA\n19h30 Transfert SFO → hôtel (BART ou Uber)\n20h30 Check-in Hyatt Place SF Downtown (701 3rd St)\n21h30 Dîner léger\n🏨 Hyatt Place - 343€86 payé (conf. Expedia 72070565315363)
 CATEGORIES:Programme
 STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:depart-domicile-aeroport-2026@usa-roadtrip
+DTSTART;TZID=Europe/Paris:20260708T081500
+DTEND;TZID=Europe/Paris:20260708T090000
+SUMMARY:🚌 Départ domicile → Aéroport RNS (bus C6 à Cité Judiciaire)
+DESCRIPTION:Départ de la maison (8 rue Hector Berlioz) pour l'aéroport de Rennes–Saint-Jacques.\nVol RNS→CDG 11h05 (AF7531) — arrivée aéroport visée ~08h45-09h00 (bagages soute à enregistrer jusqu'à SFO).\nTrajet : à pied jusqu'à l'arrêt Cité Judiciaire\, puis bus C6 direction Aéroport (direct\, ~10-15 min ; bus toutes les 10-12 min en semaine).\n⚠️ Vérifier l'horaire d'été du C6 début juillet (appli STAR / Moovit).\nAlternative : taxi/Uber (~15-20€\, 15 min\, porte-à-porte).
+LOCATION:Arrêt Cité Judiciaire, Rennes (ligne C6 direction Aéroport)
+CATEGORIES:Logistique
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⏰ Départ domicile → Aéroport (bus C6 à Cité Judiciaire) dans 30 min
+END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
@@ -60,8 +76,8 @@ BEGIN:VEVENT
 UID:j03-programme-2026@usa-roadtrip
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
-SUMMARY:🚗 J03 - Half Moon Bay → Monterey → Oakhurst
-DESCRIPTION:09h00 Réveil + check-out Half Moon Bay RV Park\n10h30 Départ vers Monterey (Hwy 1, 17 miles)\n11h15 Arrivée Monterey - Cannery Row\n11h15-14h00 Visite Monterey (aquarium optionnel\, front de mer\, vieux centre)\n14h00 Route Monterey → Oakhurst (~320 km\, 4h30 - CA-101/CA-152/CA-99/CA-41)\n18h30 Check-in High Sierra RV and Mobile Park (40389 Hwy 41\, Oakhurst)\n19h30 Dîner + préparation lendemain (Mariposa Grove)\n🏕️ High Sierra RV - conf. 12297938 - Full Hookups
+SUMMARY:🏖️ J03 - Half Moon Bay → Monterey (baignade) → Santa Nella
+DESCRIPTION:08h30 Réveil + check-out Half Moon Bay RV Park (avant 11h)\n09h30-11h15 Route côtière Half Moon Bay → Monterey (~1h45\, ~115 km\, CA-1)\n11h15-12h45 Baignade Monterey State Beach (Window on the Bay) - baie abritée\, eau ~14-16°C\n12h45-14h30 Déjeuner + Cannery Row + Aquarium (optionnel)\n14h30-16h00 Route Monterey → Santa Nella (~1h15-1h30\, ~110 km\, CA-152/Pacheco Pass)\n16h00 Check-in Oasis West RV Park + piscine (point milieu)\nTotal ~3h de route au lieu de 4h30 d'une traite\n🏕️ Oasis West RV Park (Santa Nella) - à réserver - ⚠️ annuler ancienne nuit Oakhurst (High Sierra RV)
 CATEGORIES:Programme
 STATUS:CONFIRMED
 END:VEVENT
@@ -70,8 +86,8 @@ BEGIN:VEVENT
 UID:j04-programme-2026@usa-roadtrip
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260712
-SUMMARY:🌲 J04 - Mariposa Grove (séquoias) → Sweetwater
-DESCRIPTION:08h00 Départ High Sierra RV (check-out avant 11h)\nRoute vers Mariposa Grove (entrée sud Yosemite\, CA-41)\n10h00 Parking Welcome Plaza (limite 25 ft pour RV)\n10h00-11h10 Mariposa Grove - boucle courte (~1h10) : Grizzly Giant\, California Tunnel Tree\nOU 09h30-12h45 Mariposa Grove - boucle longue (~3h15)\n12h00 Pique-nique (parking Wawona)\n12h00 Route → Sweetwater Campground (Stanislaus NF\, ~1-2h)\n14h00 Check-in Sweetwater Campground\nTunnel View + Mist Trail + El Capitan prévus au Jour 5\n🏕️ Sweetwater Campground - conf. reservation-camping-11-07.pdf
+SUMMARY:🌲 J04 - Mariposa Grove (séquoias) → Goat Meadow
+DESCRIPTION:06h30 Départ Oasis West (Santa Nella) - partir tôt\n07h00-09h30 Route Santa Nella → Mariposa Grove (~2h30\, CA-152/CA-99/CA-41 via Oakhurst)\n09h30 Parking Welcome Plaza (limite 25 ft pour RV\, navette)\n09h30-12h45 Mariposa Grove - boucle courte (~1h10) ou longue (~3h15) : Grizzly Giant\, California Tunnel Tree\n13h00 Pique-nique (parking Wawona)\n13h00 Route → Goat Meadow (Fish Camp\, ~10 min)\n14h00 Installation Goat Meadow (dispersed gratuit\, 1er arrivé)\nTunnel View + Mist Trail + El Capitan prévus au Jour 5\n🏕️ Goat Meadow (gratuit) - plan B Wawona - filet Sweetwater (réservé\, reservation-camping-11-07.pdf)
 CATEGORIES:Programme
 STATUS:CONFIRMED
 END:VEVENT
@@ -303,11 +319,11 @@ BEGIN:VEVENT
 UID:j03-highsierra-2026@usa-roadtrip
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
-SUMMARY:🏕️ High Sierra RV & Mobile Park - Oakhurst
-DESCRIPTION:High Sierra RV and Mobile Park\n40389 Hwy 41, Oakhurst, CA 93644\nConfirmation: 12297938\nDeluxe Pull-Thru, Full Hookups\nTél: (559) 683-7662
-LOCATION:40389 Hwy 41, Oakhurst, CA 93644
+SUMMARY:🏕️ Oasis West RV Park - Santa Nella (point milieu)
+DESCRIPTION:Oasis West RV Park\nSanta Nella, CA (point milieu Half Moon Bay ↔ Yosemite)\nPiscine\, pull-through\, clubhouse\n⚠️ À RÉSERVER\nPlan B : Santa Nella RV Park ; éco : Medeiros (San Luis Reservoir\, 1er arrivé)\n⚠️ ANNULER ancienne nuit Oakhurst (High Sierra RV\, conf. 12297938)
+LOCATION:Santa Nella, CA
 CATEGORIES:Camping
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 END:VEVENT
 
 BEGIN:VEVENT
@@ -504,17 +520,16 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:checkin-highsierra-2026@usa-roadtrip
-DTSTART;TZID=America/Los_Angeles:20260710T220000
-DTEND;TZID=America/Los_Angeles:20260710T223000
-SUMMARY:🏕️ Arrivée 10 juil. avant 22h — High Sierra RV Park
-DESCRIPTION:Arriver au High Sierra RV and Mobile Park avant 22h\n40389 Hwy 41, Oakhurst, CA — Tél: (559) 683-7662\nAppeler si arrivée prévue après 22h
+DTSTART;TZID=America/Los_Angeles:20260710T160000
+DTEND;TZID=America/Los_Angeles:20260710T163000
+SUMMARY:🏕️ Arrivée Santa Nella (Oasis West RV Park) — fin d'après-midi
+DESCRIPTION:Arrivée à Santa Nella après Monterey (~16h)\nOasis West RV Park (piscine) — aucune contrainte d'horaire\nPlan B : Santa Nella RV Park ; éco : Medeiros (1er arrivé)\n⚠️ Penser à réserver / annuler ancienne nuit Oakhurst
 CATEGORIES:Logistique
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 BEGIN:VALARM
 TRIGGER:-PT60M
 ACTION:DISPLAY
-DESCRIPTION:⏰ Arrivée High Sierra RV dans 1h (22h00 max)
-END:VALARM
+DESCRIPTION:⏰ Arrivée Santa Nella (Oasis West) dans 1h
 END:VEVENT
 
 BEGIN:VEVENT

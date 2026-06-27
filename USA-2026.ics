@@ -41,7 +41,7 @@ UID:j01-programme-2026@usa-roadtrip
 DTSTART;VALUE=DATE:20260708
 DTEND;VALUE=DATE:20260709
 SUMMARY:✈️ J01 - Rennes → San Francisco
-DESCRIPTION:08h15 Départ domicile (8 rue Hector Berlioz) → bus C6 à Cité Judiciaire → Aéroport RNS\n08h45 Arrivée aéroport Rennes (RNS) — enregistrement bagages jusqu'à SFO\n11h05 Vol AF7531 RNS→CDG (arr. 12h20)\n15h45 Vol AF82 CDG→SFO (11h30 de vol)\n18h00 Arrivée SFO - formalités ESTA\n19h30 Transfert SFO → hôtel (BART ou Uber)\n20h30 Check-in Hyatt Place SF Downtown (701 3rd St)\n21h30 Dîner léger\n🏨 Hyatt Place - 343€86 payé (conf. Expedia 72070565315363)
+DESCRIPTION:08h15 Départ domicile (8 rue Hector Berlioz) → bus C6 à Cité Judiciaire → Aéroport RNS\n08h45 Arrivée aéroport Rennes (RNS) — enregistrement bagages jusqu'à SFO\n11h05 Vol AF7531 RNS→CDG (arr. 12h20)\n15h45 Vol AF82 CDG→SFO (11h30 de vol)\n18h00 Arrivée SFO - formalités ESTA\n19h30 Transfert SFO → hôtel (BART ou Uber)\n20h30 Check-in Hotel Zephyr San Francisco (250 Beach St)\n21h30 Dîner léger\n🏨 Hotel Zephyr - 183€23 payé (conf. Expedia 72076034212316)
 CATEGORIES:Programme
 STATUS:CONFIRMED
 END:VEVENT
@@ -67,7 +67,7 @@ UID:j02-programme-2026@usa-roadtrip
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260710
 SUMMARY:🏙️ J02 - San Francisco + Prise camping-car
-DESCRIPTION:07h00 Petit-déjeuner (diner américain - Mel's ou Pinecrest)\n08h00 Check-out hôtel (bagages en consigne)\n09h00 Alcatraz - ferry depuis Pier 33 (audio-guide inclus)\n12h00 Fisherman's Wharf - déjeuner Boudin Bakery\n14h30 Golden Gate Bridge (Fort Point)\n15h30 Récupération bagages hôtel\n16h00 Roadsurfer - Prise camping-car (588 Brannan St)\n18h30 Courses Safeway sur la route\n20h00 Arrivée Half Moon Bay RV Park (460 Wavecrest Rd)\n🏕️ Half Moon Bay RV Park - 1ère nuit en camping-car
+DESCRIPTION:07h00 Petit-déjeuner (diner américain - Mel's ou Pinecrest)\n08h00 Check-out hôtel (bagages en consigne)\n09h00 Alcatraz - ferry depuis Pier 33 (audio-guide inclus)\n12h00 Fisherman's Wharf - déjeuner Boudin Bakery\n14h30 Golden Gate Bridge (Fort Point)\n15h30 Récupération bagages hôtel\n16h00 Roadsurfer - Prise camping-car (Millbrae — 200 El Camino Real\, à confirmer — ticket Roadsurfer #1247113)\n18h30 Courses Safeway sur la route\n20h00 Arrivée Half Moon Bay RV Park (460 Wavecrest Rd)\n🏕️ Half Moon Bay RV Park - 1ère nuit en camping-car
 CATEGORIES:Programme
 STATUS:CONFIRMED
 END:VEVENT
@@ -297,9 +297,9 @@ BEGIN:VEVENT
 UID:j01-hyatt-sf-2026@usa-roadtrip
 DTSTART;VALUE=DATE:20260708
 DTEND;VALUE=DATE:20260709
-SUMMARY:🏨 Hyatt Place SF Downtown
-DESCRIPTION:Hyatt Place San Francisco Downtown\n701 3rd St, San Francisco, CA 94107\nExpedia: 72070565315363\n2 grands lits, non-fumeurs\nCheck-in: 15h00 / Check-out: 11h00\n343,86€ payé (MasterCard 3968)
-LOCATION:701 3rd St, San Francisco, CA 94107
+SUMMARY:🏨 Hotel Zephyr San Francisco
+DESCRIPTION:Hotel Zephyr San Francisco\n250 Beach St, San Francisco, CA 94133\nExpedia: 72076034212316\n2 grands lits, non-fumeurs\nCheck-in: 16h00 / Check-out: 11h00\n183,23€ payé (MasterCard 3968)
+LOCATION:250 Beach St, San Francisco, CA 94133
 CATEGORIES:Hébergement
 STATUS:CONFIRMED
 END:VEVENT
@@ -460,16 +460,16 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:checkin-hyatt-sf-2026@usa-roadtrip
-DTSTART;TZID=America/Los_Angeles:20260708T150000
-DTEND;TZID=America/Los_Angeles:20260708T153000
-SUMMARY:🏨 Arrivée 8 juil. depuis 15h — Hyatt Place SF Downtown
-DESCRIPTION:Check-in Hyatt Place San Francisco Downtown à partir de 15h\n701 3rd St\, San Francisco\, CA 94107\nConf. Expedia 72070565315363
+DTSTART;TZID=America/Los_Angeles:20260708T160000
+DTEND;TZID=America/Los_Angeles:20260708T163000
+SUMMARY:🏨 Arrivée 8 juil. depuis 16h — Hotel Zephyr San Francisco
+DESCRIPTION:Check-in Hotel Zephyr San Francisco à partir de 16h\n250 Beach St\, San Francisco\, CA 94133\nConf. Expedia 72076034212316
 CATEGORIES:Logistique
 STATUS:CONFIRMED
 BEGIN:VALARM
 TRIGGER:-PT60M
 ACTION:DISPLAY
-DESCRIPTION:⏰ Check-in Hyatt Place SF dans 1h (à partir de 15h00)
+DESCRIPTION:⏰ Check-in Hotel Zephyr SF dans 1h (à partir de 16h00)
 END:VALARM
 END:VEVENT
 
@@ -477,14 +477,14 @@ BEGIN:VEVENT
 UID:checkout-hyatt-sf-2026@usa-roadtrip
 DTSTART;TZID=America/Los_Angeles:20260709T110000
 DTEND;TZID=America/Los_Angeles:20260709T113000
-SUMMARY:🚗 Check-out 9 juil. avant 11h — Hyatt Place SF
-DESCRIPTION:Check-out officiel Hyatt Place San Francisco Downtown\nQuitter la chambre avant 11h00\n701 3rd St, San Francisco, CA
+SUMMARY:🚗 Check-out 9 juil. avant 11h — Hotel Zephyr SF
+DESCRIPTION:Check-out officiel Hotel Zephyr San Francisco\nQuitter la chambre avant 11h00\n250 Beach St, San Francisco, CA
 CATEGORIES:Logistique
 STATUS:CONFIRMED
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:⏰ Check-out Hyatt Place dans 30 min (11h00)
+DESCRIPTION:⏰ Check-out Hotel Zephyr dans 30 min (11h00)
 END:VALARM
 END:VEVENT
 

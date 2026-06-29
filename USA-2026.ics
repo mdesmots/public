@@ -226,8 +226,8 @@ BEGIN:VEVENT
 UID:j18-programme-2026@usa-roadtrip
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
-SUMMARY:🎰 J18 - Las Vegas — Journée libre + Vol de nuit vers Newark
-DESCRIPTION:Matin : Restitution véhicule de location (faire le plein avant)\nJournée libre Las Vegas :\n→ Piscine\, spa\n→ Neon Museum (~25$)\, Mob Museum (~30$)\n→ Red Rock Canyon (30 min - si voiture disponible)\nAprès-midi : Repos avant vol de nuit\n21h30-22h00 Départ hôtel → Aéroport McCarran (LAS) - Uber ~15-25$\n22h00 Arrivée aéroport\, enregistrement\, sécurité\n23h31 ✈️ Vol UA655 (ex-UA406) LAS → EWR Newark (4h56)\n🏨 Tuscany Suites & Casino (2e nuit 25→26)
+SUMMARY:🎰 J18 - Las Vegas — Journée libre (dernière journée complète)
+DESCRIPTION:Journée volontairement cool (récup après le road trip). ⚠️ Le vol de nuit pour Newark est demain soir (26 juil.\, J19)\, pas ce soir — profitez d'une vraie nuit à l'hôtel.\n09h-12h Piscine & spa du Tuscany\, brunch tranquille\n12h-14h Casinos & Strip : Venetian & Palazzo (canaux)\, Caesars Forum\, Luxor\, NY-NY\n14h30-17h Musée au choix : Neon Museum (~25$)\, Mob Museum (~30$)\, Shark Reef Aquarium (~30$) ou Pinball Hall of Fame (gratuit)\n17h-19h Happy hour & dîner (buffet Bacchanal / Wicked Spoon)\n20h-22h Strip de nuit : fontaines du Bellagio\, ou spectacle (O\, Mystère\, KÀ)\n⚠️ Plus de véhicule (camping-car rendu le 24 juil.) : excursions nature = voiture de location ou tour\n🏨 Tuscany Suites & Casino (2e nuit 25→26)
 CATEGORIES:Programme
 STATUS:CONFIRMED
 END:VEVENT
@@ -248,7 +248,7 @@ DTSTART;TZID=America/Los_Angeles:20260726T233100
 DTEND;TZID=America/New_York:20260727T072700
 SUMMARY:✈️ Vol UA655 : LAS → EWR (4h56)
 DESCRIPTION:United Airlines UA655 (ex-UA406)\nDépart: Las Vegas (LAS) 23h31\nArrivée: Newark (EWR) 07h27 (+1j)\nConf. GQ1YRJ
-LOCATION:Las Vegas McCarran International Airport (LAS)
+LOCATION:Harry Reid International Airport (LAS), Las Vegas
 CATEGORIES:Vol
 STATUS:CONFIRMED
 END:VEVENT
@@ -258,7 +258,7 @@ UID:j20-programme-2026@usa-roadtrip
 DTSTART;VALUE=DATE:20260727
 DTEND;VALUE=DATE:20260728
 SUMMARY:🗽 J20 - Arrivée NYC — Central Park & Top of the Rock
-DESCRIPTION:07h35 Arrivée Newark (EWR) - vol de nuit UA406\nTransfert → Hotel Belleclaire (2175 Broadway\, Upper West Side)\n09h30 Dépose bagages (check-in dès 15h)\n10h-13h ⭐⭐⭐ Central Park : Bethesda Terrace\, Bow Bridge\, Strawberry Fields (à 2 min de l'hôtel)\n13h-14h30 Déjeuner Upper West Side / Columbus Circle\n14h30-16h45 Repos hôtel (jour d'arrivée) OU option High Line + Chelsea Market si en forme\n17h50 ⭐⭐⭐ TOP OF THE ROCK - coucher de soleil (RÉSERVÉ\, conf. 3VBTYRP2)\n20h30 Times Square de nuit + dîner Midtown\n🏨 Hotel Belleclaire - conf. Expedia 72071372641988 (27→29 juil.)
+DESCRIPTION:07h27 Arrivée Newark (EWR) - vol de nuit UA655 (ex-UA406)\nTransfert → Hotel Belleclaire (2175 Broadway\, Upper West Side)\n09h30 Dépose bagages (check-in dès 15h)\n10h-13h ⭐⭐⭐ Central Park : Bethesda Terrace\, Bow Bridge\, Strawberry Fields (à 2 min de l'hôtel)\n13h-14h30 Déjeuner Upper West Side / Columbus Circle\n14h30-16h45 Repos hôtel (jour d'arrivée) OU option High Line + Chelsea Market si en forme\n17h50 ⭐⭐⭐ TOP OF THE ROCK - coucher de soleil (RÉSERVÉ\, conf. 3VBTYRP2)\n20h30 Times Square de nuit + dîner Midtown\n🏨 Hotel Belleclaire - conf. Expedia 72071372641988 (27→29 juil.)
 CATEGORIES:Programme
 STATUS:CONFIRMED
 END:VEVENT
@@ -430,7 +430,7 @@ UID:j17-tuscany-lv-2026@usa-roadtrip
 DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20260726
 SUMMARY:🏨 Tuscany Suites & Casino - Las Vegas (2 nuits)
-DESCRIPTION:Tuscany Suites & Casino\nLas Vegas, NV\nConfirmation Expedia: www.expedia.fr-egti-YNO-I58-9LZ3.pdf\nCheck-in: 24 juil. / Check-out: 26 juil.\nPiscine + spa
+DESCRIPTION:Tuscany Suites & Casino\nLas Vegas, NV\nConfirmation Expedia: hotel-tuscany-las-vegas-24-26-07.pdf\nCheck-in: 24 juil. / Check-out: 26 juil.\nPiscine + spa
 LOCATION:Las Vegas, NV
 CATEGORIES:Hébergement
 STATUS:CONFIRMED
@@ -441,7 +441,7 @@ UID:j20-belleclaire-nyc-2026@usa-roadtrip
 DTSTART;VALUE=DATE:20260727
 DTEND;VALUE=DATE:20260729
 SUMMARY:🏨 Hotel Belleclaire - New York (2 nuits)
-DESCRIPTION:Hotel Belleclaire\n2175 Broadway, Upper West Side, New York, NY\nConfirmation Expedia: www.expedia.fr-72071372641988.pdf\nCheck-in: 27 juil. / Check-out: 29 juil.\n2 nuits
+DESCRIPTION:Hotel Belleclaire\n2175 Broadway, Upper West Side, New York, NY\nConfirmation Expedia: hotel-belleclaire-new-york-27-29-07.pdf\nCheck-in: 27 juil. / Check-out: 29 juil.\n2 nuits
 LOCATION:2175 Broadway, New York, NY
 CATEGORIES:Hébergement
 STATUS:CONFIRMED
@@ -530,20 +530,21 @@ BEGIN:VALARM
 TRIGGER:-PT60M
 ACTION:DISPLAY
 DESCRIPTION:⏰ Arrivée Santa Nella (Oasis West) dans 1h
+END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:checkout-highsierra-2026@usa-roadtrip
 DTSTART;TZID=America/Los_Angeles:20260711T110000
 DTEND;TZID=America/Los_Angeles:20260711T113000
-SUMMARY:🚗 Check-out 11 juil. avant 11h — High Sierra RV Park
-DESCRIPTION:Quitter le High Sierra RV Park avant 11h00 (confirmé réservation)\n40389 Hwy 41, Oakhurst, CA
+SUMMARY:🚗 Check-out 11 juil. — Oasis West RV Park (Santa Nella)
+DESCRIPTION:Quitter Oasis West RV Park (Santa Nella) — départ tôt prévu (6h30) pour Mariposa Grove / Yosemite\nPlan B : Santa Nella RV Park ; éco : Medeiros\n⚠️ Ancienne nuit Oakhurst (High Sierra RV, conf. 12297938) à annuler
 CATEGORIES:Logistique
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:⏰ Check-out High Sierra RV dans 30 min (11h00)
+DESCRIPTION:⏰ Check-out Oasis West (Santa Nella) dans 30 min (11h00)
 END:VALARM
 END:VEVENT
 

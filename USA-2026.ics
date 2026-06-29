@@ -227,7 +227,7 @@ UID:j18-programme-2026@usa-roadtrip
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
 SUMMARY:🎰 J18 - Las Vegas — Journée libre + Vol de nuit vers Newark
-DESCRIPTION:Matin : Restitution véhicule de location (faire le plein avant)\nJournée libre Las Vegas :\n→ Piscine\, spa\n→ Neon Museum (~25$)\, Mob Museum (~30$)\n→ Red Rock Canyon (30 min - si voiture disponible)\nAprès-midi : Repos avant vol de nuit\n21h30-22h00 Départ hôtel → Aéroport McCarran (LAS) - Uber ~15-25$\n22h00 Arrivée aéroport\, enregistrement\, sécurité\n23h55 ✈️ Vol UA406 LAS → EWR Newark (4h40)\n🏨 Tuscany Suites & Casino (2e nuit 25→26)
+DESCRIPTION:Matin : Restitution véhicule de location (faire le plein avant)\nJournée libre Las Vegas :\n→ Piscine\, spa\n→ Neon Museum (~25$)\, Mob Museum (~30$)\n→ Red Rock Canyon (30 min - si voiture disponible)\nAprès-midi : Repos avant vol de nuit\n21h30-22h00 Départ hôtel → Aéroport McCarran (LAS) - Uber ~15-25$\n22h00 Arrivée aéroport\, enregistrement\, sécurité\n23h31 ✈️ Vol UA655 (ex-UA406) LAS → EWR Newark (4h56)\n🏨 Tuscany Suites & Casino (2e nuit 25→26)
 CATEGORIES:Programme
 STATUS:CONFIRMED
 END:VEVENT
@@ -236,18 +236,18 @@ BEGIN:VEVENT
 UID:j19-programme-2026@usa-roadtrip
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260727
-SUMMARY:✈️ J19 - Check-out Vegas → Vol nuit LAS→Newark (UA406 23h55)
-DESCRIPTION:11h00 Check-out Tuscany Suites & Casino\nJournée libre (bagages en consigne à l'hôtel)\nDernières activités / dernier repas à Las Vegas\n21h30 Départ hôtel → Aéroport LAS\n22h00 Arrivée aéroport (2h avant)\n23h55 ✈️ Vol United UA406 LAS → EWR Newark\nConf. GQ1YRJ\nArrivée Newark 07h35 (27 juil.)
+SUMMARY:✈️ J19 - Check-out Vegas → Vol nuit LAS→Newark (UA655 23h31)
+DESCRIPTION:11h00 Check-out Tuscany Suites & Casino\nJournée libre (bagages en consigne à l'hôtel)\nDernières activités / dernier repas à Las Vegas\n21h30 Départ hôtel → Aéroport LAS\n22h00 Arrivée aéroport (2h avant)\n23h31 ✈️ Vol United UA655 (ex-UA406) LAS → EWR Newark\nConf. GQ1YRJ\nArrivée Newark 07h27 (27 juil.)
 CATEGORIES:Programme
 STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
 UID:j19-vol-las-ewr-2026@usa-roadtrip
-DTSTART;TZID=America/Los_Angeles:20260726T235500
-DTEND;TZID=America/New_York:20260727T073500
-SUMMARY:✈️ Vol UA406 : LAS → EWR (4h40)
-DESCRIPTION:United Airlines UA406\nDépart: Las Vegas (LAS) 23h55\nArrivée: Newark (EWR) 07h35 (+1j)\nConf. GQ1YRJ
+DTSTART;TZID=America/Los_Angeles:20260726T233100
+DTEND;TZID=America/New_York:20260727T072700
+SUMMARY:✈️ Vol UA655 : LAS → EWR (4h56)
+DESCRIPTION:United Airlines UA655 (ex-UA406)\nDépart: Las Vegas (LAS) 23h31\nArrivée: Newark (EWR) 07h27 (+1j)\nConf. GQ1YRJ
 LOCATION:Las Vegas McCarran International Airport (LAS)
 CATEGORIES:Vol
 STATUS:CONFIRMED
@@ -852,7 +852,7 @@ UID:checkout-tuscany-lv-2026@usa-roadtrip
 DTSTART;TZID=America/Los_Angeles:20260726T110000
 DTEND;TZID=America/Los_Angeles:20260726T113000
 SUMMARY:🚗 Check-out 26 juil. avant 11h — Tuscany Suites & Casino
-DESCRIPTION:Quitter Tuscany Suites & Casino avant 11h00\n255 E Flamingo Rd, Las Vegas — Conf. L72DAF0MDU\nVol LAS→EWR le soir (23h55)
+DESCRIPTION:Quitter Tuscany Suites & Casino avant 11h00\n255 E Flamingo Rd, Las Vegas — Conf. L72DAF0MDU\nVol LAS→EWR le soir (23h31, UA655)
 CATEGORIES:Logistique
 STATUS:CONFIRMED
 BEGIN:VALARM

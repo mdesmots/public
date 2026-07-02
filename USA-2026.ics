@@ -116,8 +116,8 @@ BEGIN:VEVENT
 UID:j07-programme-2026@usa-roadtrip
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20260715
-SUMMARY:🌋 J07 - Death Valley (Badwater\, Artist Drive\, Zabriskie) → Valley of Fire
-DESCRIPTION:05h30 Réveil + départ Furnace Creek (lever soleil 06h34)\n06h00-07h00 ⭐⭐⭐ Badwater Basin (-86m\, croûte de sel)\n07h00-08h00 ⭐⭐⭐ Artist Drive (route panoramique 14km\, sens unique\, RV ≤25ft OK)\n08h00-10h00 ⭐⭐⭐ Golden Canyon (rando ~3km\, 1h30-2h\, Red Cathedral)\n10h00-11h00 Déjeuner Furnace Creek Visitor Center\n11h00-11h30 ⭐⭐⭐ Zabriskie Point (badlands multicolores)\n11h30-12h00 Dante's View (option\, 1669m\, vérifier limite RV)\n14h00-17h00 Route → Valley of Fire (CA-160/I-15/NV-169\, ~280 km)\n17h00-19h00 ⭐⭐ Rando autour Atlatl Rock Campground (roches rouges)\n🏕️ Atlatl Rock Campground - Valley of Fire State Park - conf. reservation-camping-14-07.pdf
+SUMMARY:🏜️ J07 - Death Valley → Zion (direct via I-15)
+DESCRIPTION:05h30 Réveil + départ Furnace Creek (lever soleil 06h34)\n06h00-07h00 ⭐⭐⭐ Badwater Basin (-86m\, croûte de sel)\n07h00-08h00 ⭐⭐⭐ Artist Drive (route panoramique 14km\, sens unique\, RV ≤25ft OK)\n08h00-10h00 ⭐⭐⭐ Golden Canyon (rando ~3km\, 1h30-2h\, Red Cathedral)\n10h00-11h00 Déjeuner Furnace Creek Visitor Center\n11h00-11h30 ⭐⭐⭐ Zabriskie Point (badlands multicolores)\n11h30-16h00 Route DIRECTE via I-15 (Pahrump → Las Vegas → Mesquite → St. George → Springdale\, ~440 km\, ~5h)\n⚠️ Changement de fuseau à l'entrée en Utah (MDT\, +1h)\n16h00 Arrivée Zion / Springdale - installation camping\n⚠️ Atlatl Rock (Valley of Fire) ANNULÉ - conf. #1333431 à annuler\n🏕️ Zion Canyon Campground (479 Zion Park Blvd\, Springdale) - 1re nuit (14→15 juil.) - site E24 - conf. 53886643
 CATEGORIES:Programme
 STATUS:CONFIRMED
 END:VEVENT
@@ -126,8 +126,8 @@ BEGIN:VEVENT
 UID:j08-programme-2026@usa-roadtrip
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260716
-SUMMARY:🏔️ J08 - Valley of Fire → Zion National Park (J1)
-DESCRIPTION:Matin : Départ Valley of Fire → Zion (~270 km\, 2h30-3h)\nActivités Zion :\n⭐⭐⭐ Angels Landing (8\,7 km A/R\, 453m D+\, 4-5h - PERMIS NPS OBLIGATOIRE)\n⭐⭐ Canyon Overlook Trail (1\,6 km A/R\, facile-modéré\, 1h)\n⭐⭐ The Narrows (rando aquatique dans la Virgin River\, optionnel)\nPa'rus Trail (balade facile en fin de journée)\n⚠️ Angels Landing : permis loterie NPS - réserver à l'avance sur recreation.gov\n🏕️ Zion Canyon Campground (479 Zion Park Blvd\, Springdale) - site E24 - conf. 36232388
+SUMMARY:⛰️ J08 - Zion – Angels Landing (permis confirmé)
+DESCRIPTION:Journée complète à Zion (déjà sur place depuis hier soir)\n⭐⭐⭐ Angels Landing (8\,7 km A/R\, 453m D+\, 4-5h) - ✅ PERMIS CONFIRMÉ "Start before 9 AM" (groupe 4\, titulaire Marc DESMOTS\, Order #0886010075)\nAprès-midi :\n⭐⭐ Canyon Overlook Trail (1\,6 km A/R\, facile-modéré\, 1h)\n⭐⭐ The Narrows (rando aquatique dans la Virgin River\, optionnel)\nPa'rus Trail (balade facile en fin de journée)\n⚠️ Pièce d'identité titulaire obligatoire\, tout le groupe entre ensemble à The Grotto\n⚠️ 3 L d'eau/personne\n🏕️ Zion Canyon Campground - site E24 (2e nuit 15→16 juil. - conf. 36232388)
 CATEGORIES:Programme
 STATUS:CONFIRMED
 END:VEVENT
@@ -137,7 +137,7 @@ UID:j09-programme-2026@usa-roadtrip
 DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260717
 SUMMARY:🏔️ J09 - Zion National Park (J2 - journée complète)
-DESCRIPTION:Journée complète dans Zion National Park\nRandonnées possibles :\n→ Observation Point Trail (13 km A/R\, 650m D+\, difficile - vue panoramique sur la vallée)\n→ Hidden Canyon (4\,8 km A/R\, modéré\, 265m D+)\n→ The Narrows (si non fait J8 - rando aquatique\, 2-6h)\n→ Riverside Walk (facile\, 3 km A/R - accès Narrows)\n→ Emerald Pools Trails (facile à modéré)\nNavettes gratuites dans le parc\n🏕️ Zion Canyon Campground - site E24 (2e nuit - conf. 36232388)
+DESCRIPTION:Journée complète dans Zion National Park\nRandonnées possibles :\n→ Observation Point Trail (13 km A/R\, 650m D+\, difficile - vue panoramique sur la vallée)\n→ Hidden Canyon (4\,8 km A/R\, modéré\, 265m D+)\n→ The Narrows (si non fait J8 - rando aquatique\, 2-6h)\n→ Riverside Walk (facile\, 3 km A/R - accès Narrows)\n→ Emerald Pools Trails (facile à modéré)\nNavettes gratuites dans le parc\n🏕️ Zion Canyon Campground - site E24 (3e et dernière nuit 16→17 juil. - conf. 36232388)
 CATEGORIES:Programme
 STATUS:CONFIRMED
 END:VEVENT
@@ -167,7 +167,7 @@ UID:j12-programme-2026@usa-roadtrip
 DTSTART;VALUE=DATE:20260719
 DTEND;VALUE=DATE:20260720
 SUMMARY:📸 J12 - Page : Antelope Canyon + Lake Powell
-DESCRIPTION:09h00-12h00 ⭐⭐⭐ Antelope Canyon (visite guidée Navajo obligatoire\, ~1h30)\n→ Meilleure lumière 10h-13h (rayons de lumière Upper Antelope)\n→ Réservation 2-3 mois à l'avance\, arriver 30 min en avance\n→ Sans flash\, mode HDR\, pas de grands sacs\n→ Frais à l'intérieur (20-25°C)\n14h00-17h00 Lake Powell :\n→ Barrage Glen Canyon (visite gratuite)\n→ Baignade : Lone Rock Beach OU Wahweap Marina OU Antelope Point\n→ Option kayak/paddle à Antelope Point\n→ Eau à 25-27°C en juillet\n⚠️ Chaleur : 30-40°C\n🏕️ Roam Horseshoe Bend RV Resort (2e nuit)
+DESCRIPTION:11h15-12h15 ⭐⭐⭐ Lower Antelope Canyon (visite guidée Navajo) - ✅ RÉSERVÉ (Booking #D-77143\, Native American Tours\, 4 adultes\, $322 TTC)\n→ Arriver 30 min en avance\n→ Sans flash\, mode HDR\, pas de grands sacs\n→ Frais à l'intérieur (20-25°C)\n14h00-17h00 Lake Powell :\n→ Barrage Glen Canyon (visite gratuite)\n→ Baignade : Lone Rock Beach OU Wahweap Marina OU Antelope Point\n→ Option kayak/paddle à Antelope Point\n→ Eau à 25-27°C en juillet\n⚠️ Chaleur : 30-40°C\n🏕️ Roam Horseshoe Bend RV Resort (2e nuit)
 CATEGORIES:Programme
 STATUS:CONFIRMED
 END:VEVENT
@@ -360,22 +360,11 @@ STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
-UID:j07-atlatl-2026@usa-roadtrip
+UID:j07-zion-2026@usa-roadtrip
 DTSTART;VALUE=DATE:20260714
-DTEND;VALUE=DATE:20260715
-SUMMARY:🏕️ Atlatl Rock Campground - Valley of Fire
-DESCRIPTION:Atlatl Rock Campground\nValley of Fire State Park, NV\nConfirmation: reservation-camping-14-07.pdf
-LOCATION:Valley of Fire State Park, NV
-CATEGORIES:Camping
-STATUS:CONFIRMED
-END:VEVENT
-
-BEGIN:VEVENT
-UID:j08-zion-2026@usa-roadtrip
-DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260717
-SUMMARY:🏕️ Zion Canyon Campground - Springdale
-DESCRIPTION:Zion Canyon Campground\n479 Zion Park Blvd, Springdale, UT 84767\nConfirmation: reservation-camping-15.16-07.pdf\nConf. 36232388 - site E24\nTél: (435) 772-3237
+SUMMARY:🏕️ Zion Canyon Campground - Springdale (3 nuits)
+DESCRIPTION:Zion Canyon Campground\n479 Zion Park Blvd, Springdale, UT 84767\n3 nuits (14→17 juil.), même site E24\nConf. 53886643 (nuit 14→15) + Conf. 36232388 (15→17)\nConfirmation: reservation-camping-15.16-07.pdf\nTél: (435) 772-3237
 LOCATION:479 Zion Park Blvd, Springdale, UT 84767
 CATEGORIES:Camping
 STATUS:CONFIRMED
@@ -639,41 +628,11 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:checkin-atlatl-2026@usa-roadtrip
-DTSTART;TZID=America/Los_Angeles:20260714T220000
-DTEND;TZID=America/Los_Angeles:20260714T223000
-SUMMARY:🏕️ Arrivée 14 juil. avant 22h — Atlatl Rock Campground
-DESCRIPTION:Arriver à Atlatl Rock Campground avant 22h\nValley of Fire State Park, NV — Site 35, EW\nConf. #1333431
-CATEGORIES:Logistique
-STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT60M
-ACTION:DISPLAY
-DESCRIPTION:⏰ Arrivée Atlatl Rock dans 1h (22h00 max)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-UID:checkout-atlatl-2026@usa-roadtrip
-DTSTART;TZID=America/Los_Angeles:20260715T120000
-DTEND;TZID=America/Los_Angeles:20260715T123000
-SUMMARY:🚗 Check-out 15 juil. avant 12h — Atlatl Rock Campground
-DESCRIPTION:Quitter Atlatl Rock Campground (Valley of Fire State Park) avant 12h00\nRoute vers Zion National Park (~270 km, 2h30)
-CATEGORIES:Logistique
-STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⏰ Check-out Atlatl Rock dans 30 min (12h00)
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 UID:checkin-zion-2026@usa-roadtrip
-DTSTART;TZID=America/Denver:20260715T220000
-DTEND;TZID=America/Denver:20260715T223000
-SUMMARY:🏕️ Arrivée 15 juil. avant 22h — Zion Canyon Campground
-DESCRIPTION:Arriver au Zion Canyon Campground avant 22h\n479 Zion Park Blvd, Springdale, UT — Site E24\nConf. 36232388 — Tél: (435) 772-3237
+DTSTART;TZID=America/Denver:20260714T220000
+DTEND;TZID=America/Denver:20260714T223000
+SUMMARY:🏕️ Arrivée 14 juil. avant 22h — Zion Canyon Campground
+DESCRIPTION:Arriver au Zion Canyon Campground avant 22h (après la route directe I-15 depuis Death Valley)\n479 Zion Park Blvd, Springdale, UT — Site E24\n1re nuit conf. 53886643 (puis 36232388 pour 15→17)\nTél: (435) 772-3237
 CATEGORIES:Logistique
 STATUS:CONFIRMED
 BEGIN:VALARM

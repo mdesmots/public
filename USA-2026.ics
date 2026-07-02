@@ -96,8 +96,8 @@ BEGIN:VEVENT
 UID:j05-programme-2026@usa-roadtrip
 DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260713
-SUMMARY:🥾 J05 - Yosemite Valley (Mist Trail) → Bass Lake
-DESCRIPTION:06h30 Départ Sweetwater → Yosemite Valley (Tunnel View en chemin)\n07h30 Parking Upper Pines\n07h45 Navette → Happy Isles\n07h45-12h00 Mist Trail : Vernal Fall + Nevada Fall (12\,8 km\, 815m D+\, ~5h30)\n12h45 Navette → El Capitan Meadow\n13h00-14h00 El Capitan (vue paroi 900m\, grimpeurs)\n14h15-15h30 Yosemite Falls (Lower Yosemite Fall Trail 1\,6 km)\n16h00 Route Yosemite → Bass Lake (~80-100 km\, 1h30-2h)\n18h30 Check-in Oh Ridge Campground - site 141 (Deer)\n🏕️ Oh Ridge Campground - Bass Lake - conf. reservation-camping-12-07.pdf
+SUMMARY:🥾 J05 - Yosemite Valley (Mist Trail) → June Lake
+DESCRIPTION:06h30 Départ Sweetwater → Yosemite Valley (Tunnel View en chemin)\n07h30 Parking Upper Pines\n07h45 Navette → Happy Isles\n07h45-12h00 Mist Trail : Vernal Fall + Nevada Fall (12\,8 km\, 815m D+\, ~5h30)\n12h45 Navette → El Capitan Meadow\n13h00-14h00 El Capitan (vue paroi 900m\, grimpeurs)\n14h15-15h30 Yosemite Falls (Lower Yosemite Fall Trail 1\,6 km)\n16h00 Route Yosemite → June Lake (via Tioga Pass CA-120 E\, ~140 km\, ~2h30)\n18h30 Check-in Oh Ridge Campground - site 141 (Deer)\n🏕️ Oh Ridge Campground - June Lake (Inyo NF) - conf. reservation-camping-12-07.pdf
 CATEGORIES:Programme
 STATUS:CONFIRMED
 END:VEVENT
@@ -341,9 +341,9 @@ BEGIN:VEVENT
 UID:j05-ohridge-2026@usa-roadtrip
 DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260713
-SUMMARY:🏕️ Oh Ridge Campground - Bass Lake (site 141)
-DESCRIPTION:Oh Ridge Campground - Site Deer 141\nBass Lake, Sierra National Forest, CA\nConfirmation: reservation-camping-12-07.pdf
-LOCATION:Bass Lake, Sierra National Forest, CA
+SUMMARY:🏕️ Oh Ridge Campground - June Lake (site 141)
+DESCRIPTION:Oh Ridge Campground - Site Deer 141\nJune Lake, Inyo National Forest, CA\nConfirmation: reservation-camping-12-07.pdf
+LOCATION:June Lake, Inyo National Forest, CA
 CATEGORIES:Camping
 STATUS:CONFIRMED
 END:VEVENT
@@ -572,7 +572,7 @@ UID:checkin-ohridge-2026@usa-roadtrip
 DTSTART;TZID=America/Los_Angeles:20260712T220000
 DTEND;TZID=America/Los_Angeles:20260712T223000
 SUMMARY:🏕️ Arrivée 12 juil. avant 22h — Oh Ridge Campground
-DESCRIPTION:Arriver à Oh Ridge Campground avant 22h\nBass Lake, Sierra National Forest, CA — Site Deer 141
+DESCRIPTION:Arriver à Oh Ridge Campground avant 22h\nJune Lake, Inyo National Forest, CA — Site Deer 141
 CATEGORIES:Logistique
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -587,7 +587,7 @@ UID:checkout-ohridge-2026@usa-roadtrip
 DTSTART;TZID=America/Los_Angeles:20260713T120000
 DTEND;TZID=America/Los_Angeles:20260713T123000
 SUMMARY:🚗 Check-out 13 juil. avant 12h — Oh Ridge Campground
-DESCRIPTION:Quitter Oh Ridge Campground avant 12h00 (Sierra National Forest)\nDépart tôt prévu (7h00) pour Death Valley via Father Crowley
+DESCRIPTION:Quitter Oh Ridge Campground avant 12h00 (June Lake, Inyo National Forest)\nDépart tôt prévu (7h00) pour Death Valley via Father Crowley
 CATEGORIES:Logistique
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -871,8 +871,8 @@ BEGIN:VEVENT
 UID:loterie-angels-landing-resultat-2026@usa-roadtrip
 DTSTART;TZID=Europe/Paris:20260425T090000
 DTEND;TZID=Europe/Paris:20260425T093000
-SUMMARY:🔴 Résultats loterie Angels Landing — Vérifier Recreation.gov
-DESCRIPTION:Résultats de la loterie saisonnière été Angels Landing.\n\nCommande #0881806082\nPréférence : Start before 9AM — 15-16 juillet 2026\n\nVérifier sur https://www.recreation.gov/\nSi sélectionné : 3$/pers (4 pers = 12$) débité automatiquement.\nSi non sélectionné : tenter la loterie day-before le 14 ou 15 juillet.
+SUMMARY:✅ Angels Landing — Permis OBTENU
+DESCRIPTION:Loterie saisonnière été Angels Landing — ✅ PERMIS OBTENU.\n\nCandidature : Commande #0881806082\nPermis attribué : Order #0886010075 — "Start before 9 AM"\, groupe 4\, titulaire Marc DESMOTS — mer. 15 juil. 2026\n\nDocument : documents/permis-angels-landing.pdf\n⚠️ Pièce d'identité du titulaire obligatoire\, tout le groupe entre ensemble à The Grotto.
 CATEGORIES:Alerte,Préparation
 STATUS:CONFIRMED
 BEGIN:VALARM
